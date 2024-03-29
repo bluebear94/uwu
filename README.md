@@ -13,6 +13,8 @@ definitions for each word in the list.
 excluded from UWU, along with reasons for removal. This is for informational
 use only and is not intended as a supplement to UWU.
 
+The recommended lexicon symbol for UWU-exclusive words is `%`.
+
 ## Methodology
 
 UWU is based on the following existing word lists:
@@ -27,6 +29,8 @@ UWU is based on the following existing word lists:
 Unlike NWL and CSW, UWU includes words longer than 15 letters, which are
 playable in some games other than standard Scrabble, such as Super Scrabble,
 Anagrams, or WildWords.
+
+(TODO: criteria for including foreign/archaic/dialectal words?)
 
 UWU excludes slurs from the list of valid words for the following reasons:
 
