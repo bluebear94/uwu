@@ -12319,6 +12319,8 @@ ARTISTICALLY
 ARTISTRIES
 ARTISTRY
 ARTISTS
+ARTLANG short for artistic language, a conlang created for artistic purposes [n ARTLANGS]
+ARTLANGS <artlang=n> [n]
 ARTLESS
 ARTLESSLY
 ARTLESSNESS
@@ -14852,6 +14854,8 @@ AUXIN
 AUXINIC
 AUXINICALLY
 AUXINS
+AUXLANG short for auxiliary language, a conlang designed to facilitate communication between people with different native languages [n AUXLANGS]
+AUXLANGS <auxlang=n>
 AUXOMETER
 AUXOMETERS
 AUXOTROPH
@@ -15155,17 +15159,17 @@ AWAITER
 AWAITERS
 AWAITING
 AWAITS
-AWAKE
-AWAKED
-AWAKEN
-AWAKENED
+AWAKE to stop sleeping, also AWAKEN, WAKE, WAKEN [v AWAKES, AWAKED or AWOKE, AWOKEN, AWAKING]
+AWAKED <awake=v> [v]
+AWAKEN to stop sleeping, also AWAKE, WAKE, WAKEN [v AWAKENS, AWAKENED, AWAKENING]
+AWAKENED <awake=v> [v]
 AWAKENER
 AWAKENERS
-AWAKENING
+AWAKENING <awake=v> [v]
 AWAKENINGS
-AWAKENS
-AWAKES
-AWAKING
+AWAKENS <awake=v> [v]
+AWAKES <awake=v> [v]
+AWAKING <awake=v> [v]
 AWAKINGS
 AWANTING
 AWARD
@@ -15267,8 +15271,8 @@ AWNINGS
 AWNLESS
 AWNS
 AWNY
-AWOKE
-AWOKEN
+AWOKE <awake=v> [v]
+AWOKEN <awake=v> [v]
 AWOL
 AWOLS
 AWORK
@@ -38126,14 +38130,16 @@ CIRCENSIAN
 CIRCINATE
 CIRCINATELY
 CIRCITER
-CIRCLE
-CIRCLED
+CIRCLE to travel in a circular path [n CIRCLES, CIRCLED, CIRCLING]
+CIRCLED <circle=n> [n]
+CIRCLEJERK (vulgar) an activity in which participants mutually masturbate [n CIRCLEJERKS]
+CIRCLEJERK <circlejerk=n> [n]
 CIRCLER
 CIRCLERS
-CIRCLES
+CIRCLES <circle=n> [n]
 CIRCLET
 CIRCLETS
-CIRCLING
+CIRCLING <circle=n> [n]
 CIRCLINGS
 CIRCLIP
 CIRCLIPS
@@ -44637,6 +44643,8 @@ CONKERS
 CONKING
 CONKS
 CONKY
+CONLANG short for constructed language, a language that is explicitly created by one or more person instead of evolving naturally [n CONLANGS]
+CONLANGS <conlang=n> [n]
 CONN
 CONNATE
 CONNATELY
@@ -73031,7 +73039,7 @@ ENFREEZING
 ENFROSEN
 ENFROZE
 ENFROZEN
-ENG
+ENG a letter in the International Phonetic Alphabet and the orthographies of some languages that represents the “ng” sound [n ENGS]
 ENGAGE
 ENGAGED
 ENGAGEMENT
@@ -73055,6 +73063,8 @@ ENGARRISON
 ENGARRISONED
 ENGARRISONING
 ENGARRISONS
+ENGELANG short for engineered language, a constructed language that is created to test a hypothesis [n ENGELANGS]
+ENGELANGS <engelang=n> [n]
 ENGENDER
 ENGENDERED
 ENGENDERER
@@ -73200,7 +73210,7 @@ ENGROSSING
 ENGROSSINGLY
 ENGROSSMENT
 ENGROSSMENTS
-ENGS
+ENGS <eng=n> [n]
 ENGUARD
 ENGUARDED
 ENGUARDING
@@ -125905,13 +125915,16 @@ LEWISITE
 LEWISITES
 LEWISSON
 LEWISSONS
-LEX
+LEX to convert a piece of source code into a sequence of tokens [v LEXES, LEXED, LEXING]
+LEXED <lex=v> [v]
 LEXEME
 LEXEMES
 LEXEMIC
-LEXES
-LEXICA
-LEXICAL
+LEXER the part of the compiler that converts source code into a sequence of tokens [n LEXERS]
+LEXERS <lexer=n> [n]
+LEXES <lex=v> [v]
+LEXICA <lexicon=n> [n]
+LEXICAL of or pertaining to words [adj]
 LEXICALISATION
 LEXICALISATIONS
 LEXICALITIES
@@ -125932,14 +125945,14 @@ LEXICOGRAPHIES
 LEXICOGRAPHIST
 LEXICOGRAPHISTS
 LEXICOGRAPHY
-LEXICOLOGICAL
-LEXICOLOGICALLY
+LEXICOLOGICAL of or pertaining to lexicology [adj LEXICOLOGICALLY]
+LEXICOLOGICALLY <lexicological=adj> [adv]
 LEXICOLOGIES
 LEXICOLOGIST
 LEXICOLOGISTS
 LEXICOLOGY
-LEXICON
-LEXICONS
+LEXICON a collection of words [n LEXICONS, LEXICA]
+LEXICONS <lexicon=n> [n]
 LEXICOSTATISTICS
 LEXIGRAM
 LEXIGRAMS
@@ -125947,6 +125960,7 @@ LEXIGRAPHIC
 LEXIGRAPHICAL
 LEXIGRAPHIES
 LEXIGRAPHY
+LEXING <lex=v> [v]
 LEXIS
 LEXISES
 LEY
@@ -128171,6 +128185,8 @@ LOGJAM
 LOGJAMS
 LOGJUICE
 LOGJUICES
+LOGLANG short for logical language, a constructed language that is designed around logic [n LOGLANGS]
+LOGLANGS <loglang=n> [n]
 LOGLINE
 LOGLINES
 LOGLOG
@@ -145151,6 +145167,8 @@ NATIVISTIC
 NATIVISTS
 NATIVITIES
 NATIVITY
+NATLANG short for natural language, a language that evolved naturally, as opposed to a conlang [n NATLANGS]
+NATLANGS <natlang=n> [n]
 NATRIUM
 NATRIUMS
 NATRIURESES
@@ -190364,6 +190382,12 @@ RELEVANT
 RELEVANTLY
 RELEVE
 RELEVES
+RELEX to create a relexification of [v RELEXES, RELEXED, RELEXING]
+RELEXED <relex=v> [v]
+RELEXES <relex=v> [v]
+RELEXIFICATION a language derived from another by replacing its vocabulary without changing its grammar [n RELEXIFICATIONS]
+RELEXIFICATIONS <relexification=n> [n]
+RELEXING <relex=v> [v]
 RELIABILITIES
 RELIABILITY
 RELIABLE
@@ -249733,6 +249757,8 @@ UNVARIED
 UNVARIEGATED
 UNVARNISHED
 UNVARYING
+UNVAXED not vaccinated, also UNVAXXED [adj]
+UNVAXXED not vaccinated, also UNVAXED [adj]
 UNVEIL
 UNVEILED
 UNVEILER
@@ -256049,8 +256075,8 @@ WAKANDAS
 WAKANE
 WAKANES
 WAKAS
-WAKE
-WAKED
+WAKE to stop sleeping, also AWAKE, AWAKEN, WAKEN [v WAKES, WAKED or WOKE, WOKEN, WAKING]
+WAKED <wake=v> [v]
 WAKEFUL
 WAKEFULLY
 WAKEFULNESS
@@ -256058,24 +256084,24 @@ WAKEFULNESSES
 WAKELESS
 WAKEMAN
 WAKEMEN
-WAKEN
-WAKENED
+WAKEN to stop sleeping, also AWAKE, AWAKEN, WAKEN [v WAKENS, WAKENED, WAKENING]
+WAKENED <waken=v> [v]
 WAKENER
 WAKENERS
-WAKENING
+WAKENING <waken=v> [v]
 WAKENINGS
-WAKENS
+WAKENS <waken=v> [v]
 WAKER
 WAKERIFE
 WAKERS
-WAKES
+WAKES <wake=v> [v]
 WAKF
 WAKFS
 WAKIKI
 WAKIKIS
 WAKIL
 WAKILS
-WAKING
+WAKING <wake=v> [v]
 WAKINGS
 WALD
 WALDFLUTE
@@ -260001,23 +260027,25 @@ WOGGLE
 WOGGLES
 WOIWODE
 WOIWODES
-WOK
-WOKE
-WOKEN
-WOKS
+WOK a deep frying pan with sloped sides, used in Chinese cooking [n WOKS]
+WOKE <wake=v> [v] / (sometimes pejorative) aware of issues of social justice [adj WOKER, WOKEST]
+WOKEN <wake=v> [v]
+WOKER <woke=adj> [adj]
+WOKEST <woke=adj> [adj]
+WOKS <wok=n> [n]
 WOLD
 WOLDS
-WOLF
+WOLF one of several species of large canines, more narrowly of species Canis lupus [n WOLVES] / to eat voraciously [v WOLFS, WOLFED, WOLFING]
 WOLFBERRIES
 WOLFBERRY
-WOLFED
+WOLFED <wolf=v> [v]
 WOLFER
 WOLFERS
 WOLFFISH
 WOLFFISHES
 WOLFHOUND
 WOLFHOUNDS
-WOLFING
+WOLFING <wolf=v> [v]
 WOLFINGS
 WOLFISH
 WOLFISHLY
@@ -260032,7 +260060,7 @@ WOLFRAM
 WOLFRAMITE
 WOLFRAMITES
 WOLFRAMS
-WOLFS
+WOLFS <wolf=v> [v]
 WOLFSBANE
 WOLFSBANES
 WOLFSKIN
@@ -260049,7 +260077,7 @@ WOLVERENES
 WOLVERINE
 WOLVERINES
 WOLVERS
-WOLVES
+WOLVES <wolf=n> [n]
 WOLVING
 WOLVINGS
 WOLVISH
