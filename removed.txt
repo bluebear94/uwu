@@ -1,7 +1,7 @@
 CH clitic, not full word
-PH abbreviation
+PH(s) abbreviation
 ABO(s) slur
-ANU no source found
+ANU alternate form of ANYU; need more evidence of usage
 JEW(s, ed, ing) slur
 WOG(s) slur
 NIGGER(s, ed, ing) slur
@@ -15,3 +15,13 @@ GOY(s, im) possible slur
 GOYISH, GOYISCH possible slur
 BACKRA(s) slur
 BUCKRA(s) slur
+EMF(s) abbreviation
+DAGO(s) slur
+KIKE(s) slur
+LES(es) possible slur
+LEZ(es) possible slur
+LEZZ(es) possible slur
+LESBO(s) possible slur
+SPAZ(zes) slur
+SPIC(s) slur
+YID(s) possible slur
