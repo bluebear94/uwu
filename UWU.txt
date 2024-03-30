@@ -277,6 +277,8 @@ ABIOTIC
 ABIOTICALLY
 ABITURIENT
 ABITURIENTS
+ABJAD a phonetic script in which only consonants are written [n ABJADS]
+ABJADS <abjad=n> [n]
 ABJECT
 ABJECTED
 ABJECTING
@@ -815,6 +817,8 @@ ABSURDS
 ABTHANE
 ABTHANES
 ABUBBLE
+ABUGIDA a phonetic script in which consonants are written as base letters and vowels are written using diacritics [n ABUGIDAS]
+ABUGIDAS <abugida=n>
 ABUILDING
 ABULIA
 ABULIAS
@@ -60741,6 +60745,8 @@ DIKED
 DIKER
 DIKERS
 DIKES
+DIKETONE a ketone containing two carbonyl groups [n DIKETONES]
+DIKETONES <diketone=n> [n]
 DIKEY
 DIKIER
 DIKIEST
@@ -61124,10 +61130,10 @@ DIOECY
 DIOESTRUS
 DIOESTRUSES
 DIOICOUS
-DIOL
+DIOL an organic compound containing two hydroxyl groups [n DIOLS]
 DIOLEFIN
 DIOLEFINS
-DIOLS
+DIOLS <diol=n> [n]
 DIONYSIAN
 DIOPHYSITE
 DIOPHYSITES
@@ -120738,8 +120744,8 @@ KETOGENESIS
 KETOGENIC
 KETOL
 KETOLS
-KETONE
-KETONES
+KETONE an organic compound of the form R-CO-R′ [n KETONES]
+KETONES <ketone=n> [n]
 KETONIC
 KETONURIA
 KETONURIAS
@@ -239093,6 +239099,8 @@ TRIJETS
 TRIKE
 TRIKED
 TRIKES
+TRIKETONE a ketone containing three carbonyl groups, also TRIONE [n TRIKETONES]
+TRIKETONE <triketone=n> [n]
 TRIKING
 TRILATERAL
 TRILATERALISM
@@ -239263,11 +239271,12 @@ TRIO
 TRIODE
 TRIODES
 TRIOECIOUS
-TRIOL
+TRIOL an organic compound containing three hydroxyl groups [n TRIOLS]
 TRIOLET
 TRIOLETS
-TRIOLS
-TRIONES
+TRIOLS <triol=n> [n]
+TRIONE a ketone containing three carbonyl groups, also TRIKETONE [n TRIONES]
+TRIONES <trione=n> [n]
 TRIONYM
 TRIONYMAL
 TRIONYMS
