@@ -29,3 +29,4 @@ DARKEY(s) slur
 DARKIE(s) slur
 DARKY slur
 MYC abbreviation
+LITUUSES incorrect plural
