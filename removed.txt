@@ -30,3 +30,6 @@ DARKIE(s) slur
 DARKY slur
 MYC abbreviation
 LITUUSES incorrect plural
+JIGABOO(s) slur
+BOONG(s) slur
+GOOK(s) slur (GOOKY retained meaning “gloppy” or “gooey”)
