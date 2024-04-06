@@ -185621,7 +185621,7 @@ RATIOCINATORS
 RATIOCINATORY
 RATIOED <ratio=v> [v]
 RATIOING <ratio=v> [v]
-RATION to limit the supply that one can acquire [v RATIOS, RATIONED, RATIONING]
+RATION to limit the supply that one can acquire [v RATIONS, RATIONED, RATIONING]
 RATIONAL
 RATIONALE
 RATIONALES
