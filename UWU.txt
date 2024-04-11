@@ -3128,16 +3128,16 @@ AEROBAT
 AEROBATIC
 AEROBATICS
 AEROBATS
-AEROBE
-AEROBES
+AEROBE an organism that requires oxygen [n AEROBES]
+AEROBES <aerobe=n> [n]
 AEROBIA
-AEROBIC
-AEROBICALLY
+AEROBIC containing oxygen [adj AEROBICALLY]
+AEROBICALLY <aerobic=adj> [adj]
 AEROBICIZE
 AEROBICIZED
 AEROBICIZES
 AEROBICIZING
-AEROBICS
+AEROBICS exercises meant to stimulate the use of oxygen [n]
 AEROBIOLOGICAL
 AEROBIOLOGICALLY
 AEROBIOLOGIES
@@ -7129,13 +7129,14 @@ ANADROME a word or phrase that forms another word when spelled backwards [n ANAD
 ANADROMES <anadrome=n> [n]
 ANADROMOUS
 ANADYOMENE
-ANAEMIA
-ANAEMIAS
-ANAEMIC
-ANAEROBE
-ANAEROBES
-ANAEROBIC
-ANAEROBICALLY
+ANAEMIA a deficiency of iron in blood, also ANEMIA [n ANAEMIAS]
+ANAEMIAS <anaemia=n> [n]
+ANAEMIC having anemia, also ANEMIC [adj ANAEMICALLY]
+ANAEMICALLY <anaemic=adj> [adv]
+ANAEROBE an organism that does not require oxygen [n ANAEROBES]
+ANAEROBES <anaerobe=n> [n]
+ANAEROBIC not containing oxygen [adj ANAEROBICALLY]
+ANAEROBICALLY <anaerobic=adj> [adv]
 ANAEROBIONT
 ANAEROBIONTS
 ANAEROBIOSES
@@ -7635,10 +7636,10 @@ ANELE
 ANELED
 ANELES
 ANELING
-ANEMIA
-ANEMIAS
-ANEMIC
-ANEMICALLY
+ANEMIA a deficiency of iron in blood, also ANAEMIA [n ANEMIAS]
+ANEMIAS <anemia=n> [n]
+ANEMIC having anemia, also ANAEMIC [adj ANEMICALLY]
+ANEMICALLY <anemic=adj> [adv]
 ANEMOGRAM
 ANEMOGRAMS
 ANEMOGRAPH
