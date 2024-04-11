@@ -903,13 +903,13 @@ ACADEMISTS
 ACADEMY
 ACAJOU
 ACAJOUS
-ACALEPH
-ACALEPHAE
-ACALEPHAN
-ACALEPHANS
-ACALEPHE
-ACALEPHES
-ACALEPHS
+ACALEPH a member of the former taxonomic group Acalephae, which includes the jellyfish and hydroids, also ACALEPHAN, ACALEPHE [n ACALEPHS]
+ACALEPHAE a former taxonomic group of the phylum Coelenterata, including the jellyfish and hydroids [n]
+ACALEPHAN a member of the former taxonomic group Acalephae, which includes the jellyfish and hydroids, also ACALEPH, ACALEPHE [n ACALEPHANS]
+ACALEPHANS <acalephan=n> [n]
+ACALEPHE a member of the former taxonomic group Acalephae, which includes the jellyfish and hydroids, also ACALEPH, ACALEPHAN [n ACALEPHES]
+ACALEPHES <acalephe=n> [n]
+ACALEPHS <acaleph=n> [n]
 ACANACEOUS
 ACANTH
 ACANTHA
@@ -15523,6 +15523,8 @@ BABACO
 BABACOOTE
 BABACOOTES
 BABACOS
+BABAKOTO a lemur of species Indri indri, native to Madagascar [n BABAKOTOS]
+BABAKOTOS <babakoto=n> [n]
 BABAS
 BABASSU
 BABASSUS
@@ -76580,7 +76582,7 @@ ETHOXY
 ETHOXYL
 ETHOXYLS
 ETHS <eth=n> [n]
-ETHYL containing a group with chemical formula -CH₂CH₃ [adj]
+ETHYL a group with chemical formula -CH₂CH₃ [n ETHYLS]
 ETHYLAMINE
 ETHYLAMINES
 ETHYLATE to add an ethyl group to [v ETHYLATES, ETHYLATED, EHYLATING]
@@ -76596,8 +76598,8 @@ ETHYLENEDIAMINETETRAACETATE
 ETHYLENEDIAMINETETRAACETATES
 ETHYLENES
 ETHYLENIC
-ETHYLIC
-ETHYLS
+ETHYLIC containing an ethyl group [adj]
+ETHYLS <ethyl=n> [n]
 ETHYNE the systematic name for acetylene [n ETHYNES]
 ETHYNES <ethyne=n>
 ETHYNYL
@@ -90046,8 +90048,8 @@ GAMEKEEPER
 GAMEKEEPERS
 GAMEKEEPING
 GAMEKEEPINGS
-GAMELAN
-GAMELANS
+GAMELAN a type of traditional Javanese, Sundanese, or Balinese music [n GAMELANS]
+GAMELANS <gamelan=n> [n]
 GAMELESS
 GAMELIKE
 GAMELY
@@ -94460,8 +94462,8 @@ GONYS
 GONYSES
 GONZO
 GOO
-GOOBER
-GOOBERS
+GOOBER (southern US) a peanut [n GOOBERS]
+GOOBERS <goober=n> [n]
 GOOD
 GOODBY
 GOODBYE
@@ -97448,6 +97450,8 @@ GUP
 GUPPIES
 GUPPY
 GUPS
+GUQIN a plucked seven-stringed Chinese musical instrument, also QIN [n GUQINS]
+GUQINS <guqin=n> [n]
 GUR
 GURAMI
 GURAMIS
@@ -97507,6 +97511,8 @@ GURUSHIPS
 GUS
 GUSANO
 GUSANOS
+GUSE an ancient Chinese plucked zither, also SE [n GUSES]
+GUSES <guse=n> [n]
 GUSH
 GUSHED
 GUSHER
@@ -97664,6 +97670,8 @@ GUYSE
 GUYSES
 GUYWIRE
 GUYWIRES
+GUZHENG a type of Chinese plucked zither, also ZHENG [n GUZHENGS]
+GUZHENGS <guzheng=n> [n]
 GUZZLE
 GUZZLED
 GUZZLER
@@ -103492,16 +103500,16 @@ HOBOISMS
 HOBOS
 HOBS
 HOC
-HOCK
-HOCKED
+HOCK a joint in the hind leg, also HOUGH [n HOCKS] / to disable by cutting the tendons in the hock, also HOUGH [v HOCKS, HOCKED, HOCKING]
+HOCKED <hock=v> [v]
 HOCKER
 HOCKERS
 HOCKET
 HOCKETS
 HOCKEY
 HOCKEYS
-HOCKING
-HOCKS
+HOCKING <hock=v> [v]
+HOCKS <hock=v> [v]
 HOCKSHOP
 HOCKSHOPS
 HOCUS
@@ -105159,10 +105167,10 @@ HOUFFING
 HOUFFS
 HOUFING
 HOUFS
-HOUGH
-HOUGHED
-HOUGHING
-HOUGHS
+HOUGH a joint in the hind leg, also HOCK [n HOUGHS] / to disable by cutting the tendons in the hock, also HOCK [v HOUGHS, HOUGHED, HOUGHING]
+HOUGHED <hock=v> [v]
+HOUGHING <hock=v> [v]
+HOUGHS <hock=v> [v]
 HOUMMOS
 HOUMMOSES
 HOUMUS
@@ -111784,9 +111792,9 @@ INDRENCH
 INDRENCHED
 INDRENCHES
 INDRENCHING
-INDRI
-INDRIS
-INDRISES
+INDRI a lemur of species Indri indri, native to Madagascar, also INDRIS [n INDRIS]
+INDRIS a lemur of species Indri indri, native to Madagascar, also INDRI [n INDRISES]
+INDRISES <indris=n> [n]
 INDUBIOUS
 INDUBITABILITIES
 INDUBITABILITY
@@ -119881,8 +119889,8 @@ KAGU
 KAGUS
 KAHAL
 KAHALS
-KAHAWAI
-KAHAWAIS
+KAHAWAI (Māori) a fish of species Arripis trutta, native to the coasts of southeastern Australia and of New Zealand [n KAHAWAIS]
+KAHAWAIS <kahawai=n> [n]
 KAHUNA
 KAHUNAS
 KAI
@@ -132074,6 +132082,9 @@ MAPS
 MAPSTICK
 MAPSTICKS
 MAPWISE
+MAQAM a musical mode in traditional Arabic music [n MAQAMS, MAQAMAT]
+MAQAMAT <maqam=n> [n]
+MAQAMS <maqam=n> [n]
 MAQUETTE
 MAQUETTES
 MAQUI
@@ -164345,6 +164356,8 @@ PELMAS
 PELMATIC
 PELMET
 PELMETS
+PELOG a seven-note scale used in gamelan music [n PELOGS]
+PELOGS <pelog=n> [n]
 PELOID
 PELOIDS
 PELOLOGIES
@@ -182769,20 +182782,22 @@ QASIDA
 QASIDAS
 QAT
 QATS
-QI
+QI the vital force in traditional Chinese culture [n QIS]
 QIBLA
 QIBLAS
 QIGONG
 QIGONGS
+QIN a plucked seven-stringed Chinese musical instrument, also GUQIN [n QINS]
 QINDAR
 QINDARKA
 QINDARKAS
 QINDARS
 QINGHAOSU
 QINGHAOSUS
+QINS <qin=n> [n]
 QINTAR
 QINTARS
-QIS
+QIS <qi=n> [n]
 QIVIUT
 QIVIUTS
 QOPH
@@ -182790,27 +182805,27 @@ QOPHS
 QUA
 QUAALUDE
 QUAALUDES
-QUACK
-QUACKED
+QUACK to make the sound of a duck [v QUACKS, QUACKED, QUACKING]
+QUACKED <quack=v> [v]
 QUACKER
-QUACKERIES
+QUACKERIES <quackery=n> [n]
 QUACKERS
-QUACKERY
-QUACKING
-QUACKISH
-QUACKISHLY
-QUACKISM
-QUACKISMS
+QUACKERY the act of making false (especially medical) claims, also QUACKISM [n QUACKERIES]
+QUACKING <quack=v> [v]
+QUACKISH characterized by quackery [adj QUACKISHLY]
+QUACKISHLY <quackish=adj> [adv]
+QUACKISM the act of making false (especially medical) claims, also QUACKERY [n QUACKISMS]
+QUACKISMS <quackism=n> [n]
 QUACKLE
 QUACKLED
 QUACKLES
 QUACKLING
-QUACKS
+QUACKS <quack=v> [v]
 QUACKSALVER
 QUACKSALVERS
 QUACKSALVING
 QUACKY
-QUAD
+QUAD short for {quadrilateral=n} or {quadrangle=n} [n QUADS]
 QUADDED
 QUADDING
 QUADPLEX
@@ -182976,7 +182991,7 @@ QUADRUPLING
 QUADRUPLY
 QUADRUPOLE
 QUADRUPOLES
-QUADS
+QUADS <quad=n> [n]
 QUAERE
 QUAERED
 QUAEREING
@@ -196198,6 +196213,8 @@ RIZZOR
 RIZZORED
 RIZZORING
 RIZZORS
+RNG a mathematical structure that has all of the properties of a ring except for the presence of a multiplicative identity [n RNGS]
+RNGS <rng=n> [n]
 ROACH
 ROACHED
 ROACHES
@@ -203454,6 +203471,7 @@ SDEINED
 SDEINING
 SDEINS
 SDRUCCIOLA
+SE an ancient Chinese plucked zither, also GUSE [n SES]
 SEA
 SEABAG
 SEABAGS
@@ -206000,6 +206018,7 @@ SESQUITERPENE
 SESQUITERPENES
 SESQUITERTIA
 SESQUITERTIAS
+SES <se=n> [n]
 SESS
 SESSA
 SESSES
@@ -211058,6 +211077,8 @@ SLENDERIZING
 SLENDERLY
 SLENDERNESS
 SLENDERNESSES
+SLENDRO a five-note scale used in gamelan music [n SLENDROS]
+SLENDROS <slendro=n> [n]
 SLENTER
 SLENTERS
 SLEPT
@@ -221017,15 +221038,15 @@ STRANGULATION
 STRANGULATIONS
 STRANGURIES
 STRANGURY
-STRAP
+STRAP to bind with a long narrow strip of (especially) cloth or leather [v STRAPS, STRAPPED, STRAPPING]
 STRAPHANG
 STRAPHANGER
 STRAPHANGERS
 STRAPHANGING
 STRAPHANGS
 STRAPHUNG
-STRAPLESS
-STRAPLESSES
+STRAPLESS an article of clothing lacking straps [n STRAPLESSES]
+STRAPLESSES <strapless=n> [n]
 STRAPLINE
 STRAPLINES
 STRAPONTIN
@@ -221035,19 +221056,20 @@ STRAPPADOED
 STRAPPADOES
 STRAPPADOING
 STRAPPADOS
-STRAPPED
+STRAPPED <strap=v> [v]
 STRAPPER
 STRAPPERS
 STRAPPIER
 STRAPPIEST
-STRAPPING
+STRAPPING <strap=v> [v]
 STRAPPINGS
 STRAPPY
-STRAPS
+STRAPS <strap=v> [v]
 STRAPWORT
 STRAPWORTS
-STRASS
-STRASSES
+STRASS a type of glass used to imitate the appearance of diamonds [n STRASSES]
+STRASSES <strass=n> [n]
+STRAT (gaming) short for {strategy=n} [n STRATS]
 STRATA
 STRATAGEM
 STRATAGEMS
@@ -221111,6 +221133,7 @@ STRATOUS
 STRATOVOLCANO
 STRATOVOLCANOES
 STRATOVOLCANOS
+STRATS <strat=n> [n]
 STRATUM
 STRATUMS
 STRATUS
@@ -240174,8 +240197,8 @@ TROVE
 TROVER
 TROVERS
 TROVES
-TROW
-TROWED
+TROW (archaic) to trust [v TROWS, TROWED, TROWING]
+TROWED <trow=v> [v]
 TROWEL
 TROWELED
 TROWELER
@@ -240186,8 +240209,8 @@ TROWELLER
 TROWELLERS
 TROWELLING
 TROWELS
-TROWING
-TROWS
+TROWING <trow=v> [v]
+TROWS <trow=v> [v]
 TROWSER
 TROWSERS
 TROWTH
@@ -262881,6 +262904,8 @@ ZEX
 ZEXES
 ZEZE
 ZEZES
+ZHENG a type of Chinese plucked zither, also GUZHENG [n ZHENGS]
+ZHENGS <zheng=n> [n]
 ZHO a cross between a yak and a cattle, also DSO, DZO, DZHO, ZO [n ZHOS]
 ZHOMO
 ZHOMOS
