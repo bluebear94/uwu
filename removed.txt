@@ -28,7 +28,7 @@ YID(s) possible slur
 DARKEY(s) slur
 DARKIE(s) slur
 DARKY slur
-MYC abbreviation
+MYC(s) abbreviation
 LITUUSES incorrect plural
 JIGABOO(s) slur
 BOONG(s) slur
@@ -40,3 +40,4 @@ FAGGOTRY, FAGGOTRIES slur
 DYKEY, DYKIER, DYKIEST slur
 FAGGOTY slur
 CRAYOLA(s) trademark
+KBAR(s) abbreviation
