@@ -59580,11 +59580,12 @@ DI
 DIABASE
 DIABASES
 DIABASIC
-DIABETES
-DIABETIC
+DIABEETUS (humorous) diabetes [n]
+DIABETES a metabolic disorder characterized by impaired insulin production [n]
+DIABETIC someone who has diabetes [n DIABETICS]
 DIABETICAL
-DIABETICS
-DIABETOGENIC
+DIABETICS <diabetic=n> [n]
+DIABETOGENIC causing diabetes [adj]
 DIABETOLOGIST
 DIABETOLOGISTS
 DIABLE
@@ -64866,6 +64867,8 @@ DIZENING
 DIZENMENT
 DIZENMENTS
 DIZENS
+DIZI a type of Chinese transverse flute [n DIZIS]
+DIZIS <dizi=n> [n]
 DIZYGOTIC
 DIZYGOUS
 DIZZARD
