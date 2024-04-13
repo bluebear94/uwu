@@ -235735,11 +235735,11 @@ TOLTERING
 TOLTERS
 TOLTS
 TOLU
-TOLUATE
-TOLUATES
-TOLUENE
-TOLUENES
-TOLUIC
+TOLUATE a salt or ester of toluic acid [n TOLUATES]
+TOLUATES <toluate=n> [n]
+TOLUENE an aromatic hydrocarbon consisting of a methyl group attached to a benzene ring [n TOLUENES]
+TOLUENES <toluene=n> [n]
+TOLUIC as in toluic acid, one of three isomers with the chemical formula CH₃C₆H₄COOH [adj]
 TOLUID
 TOLUIDE
 TOLUIDES
@@ -236103,13 +236103,13 @@ TOOTSIE
 TOOTSIES
 TOOTSING
 TOOTSY
-TOP
+TOP to cover on the top [v TOPS, TOPPED, TOPPING]
 TOPARCH
 TOPARCHIES
 TOPARCHS
 TOPARCHY
-TOPAZ
-TOPAZES
+TOPAZ a silicate mineral containing aluminum and fluorine, used as a gemstone [n TOPAZES]
+TOPAZES <topaz=n> [n]
 TOPAZINE
 TOPAZOLITE
 TOPAZOLITES
@@ -236161,9 +236161,9 @@ TOPKICKS
 TOPKNOT
 TOPKNOTS
 TOPKNOTTED
-TOPLESS
-TOPLESSNESS
-TOPLESSNESSES
+TOPLESS not wearing anything covering the torso [adj]
+TOPLESSNESS the state of being topless [n TOPLESSNESSES]
+TOPLESSNESSES <toplessness=n> [n]
 TOPLINE
 TOPLINED
 TOPLINER
@@ -236223,17 +236223,17 @@ TOPOPHILIAS
 TOPOS
 TOPOTYPE
 TOPOTYPES
-TOPPED
+TOPPED <top=v> [v]
 TOPPER
 TOPPERS
-TOPPING
+TOPPING <top=v> [v]
 TOPPINGLY
 TOPPINGS
-TOPPLE
-TOPPLED
-TOPPLES
-TOPPLING
-TOPS
+TOPPLE to knock over [v TOPPLES, TOPPLED, TOPPLING]
+TOPPLED <topple=v> [v]
+TOPPLES <topple=v> [v]
+TOPPLING <topple=v> [v]
+TOPS <top=v> [v]
 TOPSAIL
 TOPSAILS
 TOPSIDE
@@ -236466,8 +236466,8 @@ TORTICOLLISES
 TORTILE
 TORTILITIES
 TORTILITY
-TORTILLA
-TORTILLAS
+TORTILLA a thin Mexican flatbread made of corn or wheat flour [n TORTILLAS]
+TORTILLAS <tortilla=n> [n]
 TORTIOUS
 TORTIOUSLY
 TORTIVE
