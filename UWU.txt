@@ -28401,8 +28401,8 @@ BURIN
 BURINIST
 BURINISTS
 BURINS
-BURITI
-BURITIS
+BURITI a palm of species Mauritia flexuosa, native to South America [n BURITIS]
+BURITIS <buriti=n> [n]
 BURK
 BURKA
 BURKAS
@@ -117540,12 +117540,12 @@ ISOTHERMALS
 ISOTHERMS
 ISOTONE
 ISOTONES
-ISOTONIC
-ISOTONICALLY
-ISOTONICITIES
-ISOTONICITY
-ISOTOPE
-ISOTOPES
+ISOTONIC having an equal osmotic concentration as another solution [adj ISOTONICALLY]
+ISOTONICALLY <isotonic=adj> [adv]
+ISOTONICITIES <isotonicity=n> [n]
+ISOTONICITY the state of being isotonic [n ISOTONICITIES]
+ISOTOPE one of the varieties of an element with a different number of neutrons [n ISOTOPES]
+ISOTOPES <isotope=n> [n]
 ISOTOPIC
 ISOTOPICALLY
 ISOTOPIES
@@ -117592,7 +117592,7 @@ ISTHMUSES
 ISTLE
 ISTLES
 IT the third-person singular inanimate pronoun [pron ITS]
-ITA
+ITA a palm of species Mauritia flexuosa, native to South America, also ITE [n ITAS]
 ITACISM
 ITACISMS
 ITACOLUMITE
@@ -117609,21 +117609,21 @@ ITALIANIZE
 ITALIANIZED
 ITALIANIZES
 ITALIANIZING
-ITALIC
-ITALICISATION
-ITALICISATIONS
-ITALICISE
-ITALICISED
-ITALICISES
-ITALICISING
-ITALICIZATION
-ITALICIZATIONS
-ITALICIZE
-ITALICIZED
-ITALICIZES
-ITALICIZING
-ITALICS
-ITAS
+ITALIC a slanted form of type [n ITALICS]
+ITALICISATION the act of italicizing, also ITALICIZATION [n ITALICISATIONS]
+ITALICISATIONS <italicisation=n> [n]
+ITALICISE to put in italic type, also ITALICIZE [v ITALICISES, ITALICISED, ITALICISING]
+ITALICISED <italicise=v> [v]
+ITALICISES <italicise=v> [v]
+ITALICISING <italicise=v> [v]
+ITALICIZATION the act of italicizing, also ITALICISATION [n ITALICIZATIONS]
+ITALICIZATIONS <italicization=n> [n]
+ITALICIZE to put in italic type, also ITALICISE [v ITALICIZES, ITALICIZED, ITALICIZING]
+ITALICIZED <italicize=v> [v]
+ITALICIZES <italicize=v> [v]
+ITALICIZING <italicize=v> [v]
+ITALICS <italic=n> [n]
+ITAS <ita=n> [n]
 ITCH
 ITCHED
 ITCHES
@@ -117637,34 +117637,42 @@ ITCHINGS
 ITCHWEED
 ITCHWEEDS
 ITCHY
-ITEM
-ITEMED
-ITEMING
-ITEMISE
-ITEMISED
-ITEMISES
-ITEMISING
-ITEMIZATION
-ITEMIZATIONS
-ITEMIZE
-ITEMIZED
-ITEMIZER
-ITEMIZERS
-ITEMIZES
-ITEMIZING
-ITEMS
-ITERANCE
-ITERANCES
-ITERANT
-ITERATE
-ITERATED
-ITERATES
-ITERATING
-ITERATION
-ITERATIONS
-ITERATIVE
-ITERATIVELY
+ITE a palm of species Mauritia flexuosa, native to South America, also ITA [n ITES]
+ITEM to make a note or memorandum of [v ITEMS, ITEMED, ITEMING]
+ITEMED <item=v> [v]
+ITEMING <item=v> [v]
+ITEMISE to state in items, also ITEMIZE [v ITEMISES, ITEMISED, ITEMISING]
+ITEMISATION the act of itemizing, also ITEMIZATION [n ITEMISATIONS]
+ITEMISATIONS <itemisation=n> [n]
+ITEMISED <itemise=v> [v]
+ITEMISER one who itemizes, also ITEMIZER [n ITEMISERS]
+ITEMISERS <itemiser=n> [n]
+ITEMISES <itemise=v> [v]
+ITEMISING <itemise=v> [v]
+ITEMIZATION the act of itemizing, also ITEMISATION [n ITEMIZATIONS]
+ITEMIZATIONS <itemization=n> [n]
+ITEMIZE to state in items, also ITEMIXE [v ITEMIZES, ITEMIZED, ITEMIZING]
+ITEMIZED <itemize=v> [v]
+ITEMIZER one who itemizes, also ITEMISER [n ITEMIZERS]
+ITEMIZERS <itemizer=n> [n]
+ITEMIZES <itemize=v> [v]
+ITEMIZING <itemize=v> [v]
+ITEMS <item=v> [v]
+ITERANCE the act of iterating, also ITERATION [n ITERANCES]
+ITERANCES <iterance=n> [n]
+ITERANT repeating [adj]
+ITERATE to repeat [v ITERATES, ITERATED, ITERATING]
+ITERATED <iterate=v> [v]
+ITERATES <iterate=v> [v]
+ITERATING <iterate=v> [v]
+ITERATION the act of iterating, also ITERANCE [n ITERATIONS]
+ITERATIONS <iteration=n> [n]
+ITERATIVE repeating [adj ITERATIVELY]
+ITERATIVELY <iterative=adj> [adv]
+ITERATOR (computing) an object that can be used to traverse through a collection [n ITERATORS]
+ITERATORS <iterator=n> [n]
 ITERUM
+ITES <ite=n> [n]
 ITHER
 ITHYPHALLI
 ITHYPHALLIC
@@ -137938,8 +137946,8 @@ MIRINESS
 MIRINESSES
 MIRING
 MIRINS
-MIRITI
-MIRITIS
+MIRITI a palm of species Mauritia flexuosa, native to South America [n MIRITIS]
+MIRITIS <miriti=n> [n]
 MIRK
 MIRKER
 MIRKEST
