@@ -92207,8 +92207,8 @@ GHAZELS
 GHAZI
 GHAZIES
 GHAZIS
-GHEE
-GHEES
+GHEE (Hindi) a kind of clarified butter used in India, also GHI [n GHEES]
+GHEES <ghee=n> [n]
 GHERAO
 GHERAOED
 GHERAOES
@@ -92236,7 +92236,7 @@ GHETTOIZED
 GHETTOIZES
 GHETTOIZING
 GHETTOS
-GHI
+GHI (Hindi) a kind of clarified butter used in India, also GHEE [n GHIS]
 GHIBLI
 GHIBLIS
 GHILGAI
@@ -92245,30 +92245,30 @@ GHILLIE
 GHILLIED
 GHILLIES
 GHILLYING
-GHIS
+GHIS <ghi=n> [n]
 GHOMASIO
 GHOMASIOS
-GHOST
-GHOSTED
-GHOSTIER
-GHOSTIEST
-GHOSTING
+GHOST to ghostwrite [v GHOSTS, GHOSTED, GHOSTING]
+GHOSTED <ghost=v> [v]
+GHOSTIER <ghosty=adj> [adj]
+GHOSTIEST <ghosty=adj> [adj]
+GHOSTING <ghost=v> [v]
 GHOSTINGS
-GHOSTLIER
-GHOSTLIEST
-GHOSTLIKE
-GHOSTLINESS
-GHOSTLINESSES
-GHOSTLY
-GHOSTS
-GHOSTWRITE
-GHOSTWRITER
-GHOSTWRITERS
-GHOSTWRITES
-GHOSTWRITING
-GHOSTWRITTEN
-GHOSTWROTE
-GHOSTY
+GHOSTLIER <ghostly=adj> [adj]
+GHOSTLIEST <ghostly=adj> [adj]
+GHOSTLIKE like a ghost, also GHOSTLY, GHOSTY [adj]
+GHOSTLINESS the quality of being ghostly [n GHOSTLINESSES]
+GHOSTLINESSES <ghostliness=n> [n]
+GHOSTLY like a ghost, also GHOSTLIKE, GHOSTY [adj GHOSTLIER, GHOSTLIEST]
+GHOSTS <ghost=v> [v]
+GHOSTWRITE to write a work to be credited to another person [v GHOSTWRITES, GHOSTWROTE, GHOSTWRITTEN, GHOSTWRITING]
+GHOSTWRITER one who writes a work to be credited to another person [n GHOSTWRITERS]
+GHOSTWRITERS <ghostwriter=n> [n]
+GHOSTWRITES <ghostwrite=v> [v]
+GHOSTWRITING <ghostwrite=v> [v]
+GHOSTWRITTEN <ghostwrite=v> [v]
+GHOSTWROTE <ghostwrite=v> [v]
+GHOSTY like a ghost, also GHOSTLIKE, GHOSTLY [adj GHOSTIER, GHOSTIEST]
 GHOUL
 GHOULIE
 GHOULIES
