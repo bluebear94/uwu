@@ -14349,25 +14349,25 @@ AUSTRALOPITHECINES
 AUSTRALS
 AUSTRINGER
 AUSTRINGERS
-AUSUBO
-AUSUBOS
+AUSUBO a tree of species Manilkara bidentata, native to Central and South America and the Caribbean, whose sap forms a rubber-like material [n AUSUBOS]
+AUSUBOS <ausubo=n> [n]
 AUTACOID
 AUTACOIDAL
 AUTACOIDS
 AUTARCH
 AUTARCHIC
 AUTARCHICAL
-AUTARCHIES
+AUTARCHIES <autarchy=n> [n]
 AUTARCHIST
 AUTARCHISTS
 AUTARCHS
-AUTARCHY
+AUTARCHY self-sufficiency, also AUTARKY [n AUTARCHIES]
 AUTARKIC
 AUTARKICAL
-AUTARKIES
+AUTARKIES <autarky=n> [n]
 AUTARKIST
 AUTARKISTS
-AUTARKY
+AUTARKY self-sufficiency, also AUTARCHY [n AUTARKIES]
 AUTECISM
 AUTECISMS
 AUTECOLOGIC
@@ -14380,36 +14380,36 @@ AUTEURISMS
 AUTEURIST
 AUTEURISTS
 AUTEURS
-AUTHENTIC
-AUTHENTICAL
-AUTHENTICALLY
-AUTHENTICATE
-AUTHENTICATED
-AUTHENTICATES
-AUTHENTICATING
-AUTHENTICATION
-AUTHENTICATIONS
-AUTHENTICATOR
-AUTHENTICATORS
-AUTHENTICITIES
-AUTHENTICITY
-AUTHOR
+AUTHENTIC genuine; real, also AUTHENTICAL [adj AUTHENTICALLY]
+AUTHENTICAL genuine; real, also AUTHENTIC [adj AUTHENTICALLY]
+AUTHENTICALLY <authentic=adj> [adv]
+AUTHENTICATE to give proof of authenticity [v AUTHENTICATES, AUTHENTICATED, AUTHENTICATING]
+AUTHENTICATED <authenticate=v> [v]
+AUTHENTICATES <authenticate=v> [v]
+AUTHENTICATING <authenticate=v> [v]
+AUTHENTICATION the act of authenticating [n AUTHENTICATIONS]
+AUTHENTICATIONS <authentication=n> [n]
+AUTHENTICATOR one who authenticates [n AUTHENTICATORS]
+AUTHENTICATORS <authenticator=n> [n]
+AUTHENTICITIES <authenticity=n> [n]
+AUTHENTICITY the quality of being authentic [n AUTHENTICITIES]
+AUTHOR to compose a work [v AUTHORS, AUTHORED, AUTHORING]
 AUTHORCRAFT
 AUTHORCRAFTS
-AUTHORED
-AUTHORESS
-AUTHORESSES
-AUTHORIAL
-AUTHORING
+AUTHORED <author=v> [v]
+AUTHORESS a female author [n AUTHORESSES]
+AUTHORESSES <authoress=n> [n]
+AUTHORIAL of or pertaining to an author [adj]
+AUTHORING <author=v> [v]
 AUTHORINGS
-AUTHORISABLE
-AUTHORISATION
-AUTHORISATIONS
-AUTHORISE
-AUTHORISED
-AUTHORISES
+AUTHORISABLE able to be authorized, also AUTHORIZABLE [adj]
+AUTHORISATION the act of authorizing, also AUTHORIZATION [n AUTHORISATIONS]
+AUTHORISATIONS <authorisation=n> [n]
+AUTHORISE to give a right to act, also AUTHORIZE [v AUTHORISES, AUTHORISED, AUTHORISING]
+AUTHORISED <authorise=v> [v]
+AUTHORISES <authorise=v> [v]
 AUTHORISH
-AUTHORISING
+AUTHORISING <authorise=v> [v]
 AUTHORISM
 AUTHORISMS
 AUTHORITARIAN
@@ -14422,19 +14422,19 @@ AUTHORITATIVENESS
 AUTHORITATIVENESSES
 AUTHORITIES
 AUTHORITY
-AUTHORIZABLE
-AUTHORIZATION
-AUTHORIZATIONS
-AUTHORIZE
-AUTHORIZED
+AUTHORIZABLE able to be authorized, also AUTHORISABLE [adj]
+AUTHORIZATION the act of authorizing, also AUTHORISATION [n AUTHORIZATIONS]
+AUTHORIZATIONS <authorization=n> [n]
+AUTHORIZE to give a right to act, also AUTHORISE [v AUTHORIZES, AUTHORIZED, AUTHORIZING]
+AUTHORIZED <authorize=v> [v]
 AUTHORIZER
 AUTHORIZERS
-AUTHORIZES
-AUTHORIZING
-AUTHORLESS
-AUTHORS
-AUTHORSHIP
-AUTHORSHIPS
+AUTHORIZES <authorize=v> [v]
+AUTHORIZING <authorize=v> [v]
+AUTHORLESS without an author [adj]
+AUTHORS <author=v> [v]
+AUTHORSHIP the state of being an author [n AUTHORSHIPS]
+AUTHORSHIPS <authorship=v> [v]
 AUTISM
 AUTISMS
 AUTIST
@@ -16423,8 +16423,8 @@ BALANITIS
 BALANITISES
 BALAS
 BALASES
-BALATA
-BALATAS
+BALATA a tree of species Manilkara bidentata, native to Central and South America and the Caribbean, whose sap forms a rubber-like material [n BALATAS]
+BALATAS <balata=n> [n]
 BALBOA
 BALBOAS
 BALBRIGGAN
@@ -27913,6 +27913,8 @@ BULLETPROOFS
 BULLETRIE
 BULLETRIES
 BULLETS
+BULLETWOOD a tree of species Manilkara bidentata, native to Central and South America and the Caribbean, whose sap forms a rubber-like material [n BULLETWOODS]
+BULLETWOODS <bulletwood=n> [n]
 BULLFIGHT
 BULLFIGHTER
 BULLFIGHTERS
@@ -49029,8 +49031,8 @@ COWSKIN
 COWSKINS
 COWSLIP
 COWSLIPS
-COWTREE
-COWTREES
+COWTREE one of several plant species, including Manilkara bidentata, Brosimum utile, Couma macrocarpa, and Gymnema lactiferum [n COWTREES]
+COWTREES <cowtree=n> [n]
 COWY
 COX
 COXA
@@ -89134,7 +89136,7 @@ FURROWY
 FURRS
 FURRY abounding in fur [adj FURRIER, FURRIEST, FURRILY] / an anthropomorphized animal [n FURRIES]
 FURS <fur=v> [v]
-FURSUIT a full-body costume of an anthropomorphized aniaml [n FURSUITS]
+FURSUIT a full-body costume of an anthropomorphized animal [n FURSUITS]
 FURSUITS <fursuit=n> [n]
 FURTH
 FURTHCOMING
@@ -132879,8 +132881,8 @@ MASSAGES
 MASSAGING
 MASSAGIST
 MASSAGISTS
-MASSARANDUBA
-MASSARANDUBAS
+MASSARANDUBA a tree of species Manilkara bidentata, native to Central and South America and the Caribbean, whose sap forms a rubber-like material [n MASSARANDUBAS]
+MASSARANDUBAS <massaranduba=n> [n]
 MASSAS
 MASSASAUGA
 MASSASAUGAS
