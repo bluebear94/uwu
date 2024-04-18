@@ -21024,6 +21024,8 @@ BIBCOCK
 BIBCOCKS
 BIBELOT
 BIBELOTS
+BIBIMBAP (Korean) a dish of rice and other ingredients such as meat and vegetables, stirred with gochujang [n BIBIMBAPS]
+BIBIMBAPS <bibimbap=n> [n]
 BIBLE
 BIBLES
 BIBLESS
@@ -27818,26 +27820,28 @@ BULBUL
 BULBULS
 BULGAR
 BULGARS
-BULGE
-BULGED
+BULGE to swell [v BULGES, BULGED, BULGING]
+BULGED <bulge=v> [v]
 BULGER
 BULGERS
-BULGES
+BULGES <bulge=v> [v]
 BULGHAR
 BULGHARS
 BULGHUR
 BULGHURS
-BULGIER
-BULGIEST
+BULGIER <bulgy=adj> [adj]
+BULGIEST <bulgy=adj> [adj]
 BULGINE
 BULGINES
 BULGINESS
 BULGINESSES
-BULGING
-BULGINGLY
+BULGING <bulge=v> [v] / [adj BULGINGLY]
+BULGINGLY <bulging=adj> [adv]
+BULGOGI (Korean) marinated strips of beef [n BULGOGIS]
+BULGOGIS <bulgogi=n> [n]
 BULGUR
 BULGURS
-BULGY
+BULGY bulging [adj BULGIER, BULGIEST]
 BULIMAREXIA
 BULIMAREXIAS
 BULIMIA
@@ -65347,6 +65351,7 @@ DOGTROT
 DOGTROTS
 DOGTROTTED
 DOGTROTTING
+DOGU (Japanese) a clay figure made during the late Jōmon period [n]
 DOGVANE
 DOGVANES
 DOGWATCH
@@ -89696,6 +89701,8 @@ GALAXIES
 GALAXY
 GALBANUM
 GALBANUMS
+GALBI (Korean) marinated beef ribs, also KALBI [n GALBIS]
+GALBIS <galbi=n> [n]
 GALDRAGON
 GALDRAGONS
 GALE
@@ -94074,6 +94081,10 @@ GOBSTOPPERS
 GOBURRA
 GOBURRAS
 GOBY
+GOCHUGARU a powder made from Korean chili peppers [n GOCHUGARUS]
+GOCHUGARUS <gochugaru=n> [n]
+GOCHUJANG a fermented paste made from Korean chili peppers [n GOCHUJANGS]
+GOCHUJANGS <gochujang=n> [n]
 GOD
 GODCHILD
 GODCHILDREN
@@ -99168,7 +99179,7 @@ HANDYWORK
 HANDYWORKS
 HANEPOOT
 HANEPOOTS
-HANG
+HANG to suspend [v HANGS, HUNG, HANGING] / to execute by hanging by the neck [v HANGS, HANGED, HANGING]
 HANGABILITIES
 HANGABILITY
 HANGABLE
@@ -99180,12 +99191,14 @@ HANGBIRD
 HANGBIRDS
 HANGDOG
 HANGDOGS
-HANGED
+HANGED <hang=v> [v]
 HANGER
 HANGERS
 HANGFIRE
 HANGFIRES
-HANGING
+HANGI a traditional Māori method of cooking food using heated stones [n HANGIS]
+HANGIS <hangi=n> [n]
+HANGING <hang=v> [v]
 HANGINGS
 HANGMAN
 HANGMEN
@@ -99197,13 +99210,13 @@ HANGOUT
 HANGOUTS
 HANGOVER
 HANGOVERS
-HANGS
+HANGS <hang=v> [v]
 HANGTAG
 HANGTAGS
-HANGUL
+HANGUL a script used to write Korean [n]
 HANGUP
 HANGUPS
-HANIWA
+HANIWA (Japanese) a terracotta figure from the late Yayoi and Kofun periods [n]
 HANJAR
 HANJARS
 HANK
@@ -105888,7 +105901,7 @@ HUNDREDTH
 HUNDREDTHS
 HUNDREDWEIGHT
 HUNDREDWEIGHTS
-HUNG
+HUNG <hang=v> [v]
 HUNGER
 HUNGERED
 HUNGERFUL
@@ -119934,7 +119947,7 @@ KAHAWAI (Māori) a fish of species Arripis trutta, native to the coasts of south
 KAHAWAIS <kahawai=n> [n]
 KAHUNA
 KAHUNAS
-KAI
+KAI (Māori) food [n KAIS]
 KAIAK
 KAIAKED
 KAIAKING
@@ -119964,7 +119977,7 @@ KAINITE
 KAINITES
 KAINITS
 KAINS
-KAIS
+KAIS <kai=n> [n]
 KAISER
 KAISERDOM
 KAISERDOMS
@@ -120005,6 +120018,8 @@ KALASHNIKOV
 KALASHNIKOVS
 KALATHOI
 KALATHOS
+KALBI (Korean) marinated beef ribs, also GALBI [n KALBIS]
+KALBIS <kalbi=n> [n]
 KALE
 KALEIDOPHONE
 KALEIDOPHONES
@@ -121322,10 +121337,10 @@ KIMBO
 KIMBOED
 KIMBOING
 KIMBOS
-KIMCHEE
-KIMCHEES
-KIMCHI
-KIMCHIS
+KIMCHEE (Korean) femented vegetables, often napa cabbage, seasoned especially with chili pepper powder, also KIMCHI [n KIMCHEES]
+KIMCHEES <kimchee=n> [n]
+KIMCHI (Korean) femented vegetables, often napa cabbage, seasoned especially with chili pepper powder, also KIMCHEE [n KIMCHIS]
+KIMCHIS <kimchi=n> [n]
 KIMMER
 KIMMERS
 KIMONO
