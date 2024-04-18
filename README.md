@@ -45,10 +45,14 @@ categories of personal identity as covered by the NASPA Code of Conduct: ‘race
 color, creed or religion, sex, sexual orientation, gender identity, national
 origin, age, marital status, military status, or disability.’”
 
+Definitions are mostly based on [*Webster’s New International Dictionary 1909*](https://www.websters1913.com) for words that were in use at that time.
+
 ## Contributing
 
 Feel free to send pull requests to add new words or to add definitions for
-existing words. All newly added words should include definitions.
+existing words. All newly added words should include definitions. For existing words, prioritize shorter words (≤ 8 letters).
+
+Feeling lucky? `grep -e '^\S\{,8\}$' UWU.txt | shuf | head -n10`
 
 A definition of a lemma word consists of the actual definitions, followed by
 the part-of-speech tag. The part-of-speech tag also contains a list of
@@ -120,6 +124,6 @@ IONISER a device that ionizes, also IONIZER [n IONISERS]
 IONIZER a device that ionizes, also IONISER [n IONIZERS]
 ```
 
-(TODO: should these be tagged with `(UK)`, `(US)`?)
+These kinds of references can also be used for distinct but related words.
 
 (TODO: additional field-specific guidelines)
