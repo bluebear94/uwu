@@ -99210,6 +99210,10 @@ HANGOUT
 HANGOUTS
 HANGOVER
 HANGOVERS
+HANGRIER <hangry=adj> [adj]
+HANGRIEST <hangry=adj> [adj]
+HANGRILY <hangry=adj> [adv]
+HANGRY hungry and angry [adj HANGRIER, HANGRIEST, HANGRILY]
 HANGS <hang=v> [v]
 HANGTAG
 HANGTAGS
@@ -105889,32 +105893,32 @@ HUNCHBACKS
 HUNCHED
 HUNCHES
 HUNCHING
-HUNDRED
+HUNDRED a number equal to ten times ten [n HUNDREDS]
 HUNDREDER
 HUNDREDERS
 HUNDREDFOLD
 HUNDREDFOLDS
 HUNDREDOR
 HUNDREDORS
-HUNDREDS
-HUNDREDTH
-HUNDREDTHS
-HUNDREDWEIGHT
-HUNDREDWEIGHTS
+HUNDREDS <hundred=n> [n]
+HUNDREDTH one part out of a hundred [n HUNDREDTHS]
+HUNDREDTHS <hundredth=n> [n]
+HUNDREDWEIGHT a unit of weight equal to 100 or 112 pounds [n HUNDREDWEIGHTS]
+HUNDREDWEIGHTS <hundredweight=n> [n]
 HUNG <hang=v> [v]
-HUNGER
-HUNGERED
+HUNGER to feel a craving for food [v HUNGERS, HUNGERED, HUNGERING]
+HUNGERED <hunger=v> [v]
 HUNGERFUL
-HUNGERING
+HUNGERING <hunger=v> [v]
 HUNGERLY
-HUNGERS
+HUNGERS <hunger=v> [v]
 HUNGOVER
-HUNGRIER
-HUNGRIEST
-HUNGRILY
-HUNGRINESS
-HUNGRINESSES
-HUNGRY
+HUNGRIER <hungry=adj> [adj]
+HUNGRIEST <hungry=adj> [adj]
+HUNGRILY <hungry=adj> [adv]
+HUNGRINESS hunger [n HUNGRINESSES]
+HUNGRINESSES <hungriness=n> [n]
+HUNGRY feeling hunger [adj HUNGRIER, HUNGRIEST, HUNGRILY]
 HUNH
 HUNK
 HUNKER
@@ -240663,15 +240667,17 @@ TSOURIS
 TSOURISES
 TSUBA
 TSUBAS
-TSUNAMI
-TSUNAMIC
-TSUNAMIS
+TSUNAMI (Japanese) a large wave caused by seismic activity or other disturbances [n TSUNAMIS]
+TSUNAMIC of or pertaining to tsunamis [adj]
+TSUNAMIS <tsunami=n> [n]
 TSURIS
 TSURISES
 TSUTSUGAMUSHI
 TSUTSUGAMUSHIS
 TSUTSUMU
 TSUTSUMUS
+TTEOK Korean rice cakes [n]
+TTEOKBOKKI a Korean dish of rice cakes and often fish cakes and boiled eggs, stir-fried with a spicy sauce [n]
 TUAN
 TUANS
 TUART
