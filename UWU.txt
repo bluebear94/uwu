@@ -6020,6 +6020,8 @@ ALTITUDINAL
 ALTITUDINARIAN
 ALTITUDINARIANS
 ALTITUDINOUS
+ALTLANG a conlang meant to be a hypothetical language in an alternate timeline [n ALTLANGS]
+ALTLANGS <altlang=n> [n]
 ALTO
 ALTOCUMULI
 ALTOCUMULUS
@@ -6920,8 +6922,8 @@ AMPLEXUSES
 AMPLIATION
 AMPLIATIONS
 AMPLIATIVE
-AMPLICON
-AMPLICONS
+AMPLICON a sequence of nucleic acid whose concentration is increased by amplification [n AMPLICONS]
+AMPLICONS <amplicon=n> [n]
 AMPLIDYNE
 AMPLIDYNES
 AMPLIFIABLE
@@ -46915,10 +46917,10 @@ COREOPSIS
 COREOPSISES
 COREPRESSOR
 COREPRESSORS
-COREQ
-COREQS
-COREQUISITE
-COREQUISITES
+COREQ short for {corequisite=n} [n COREQS]
+COREQS <coreq=n> [n]
+COREQUISITE a requirement that must be met while taking an academic course [n COREQUISITES]
+COREQUISITES <corequisite=n> [n]
 CORER
 CORERS
 CORES
@@ -67901,8 +67903,8 @@ DUMAIST
 DUMAISTS
 DUMAS
 DUMB
-DUMBASS
-DUMBASSES
+DUMBASS (vulgar) a fool [n DUMBASSES]
+DUMBASSES <dumbass=n> [n]
 DUMBBELL
 DUMBBELLS
 DUMBCANE
@@ -92565,6 +92567,8 @@ GIMBALING
 GIMBALLED
 GIMBALLING
 GIMBALS
+GIMBAP (Korean) a dish of rice and other ingredients such as meat or vegetables wrapped in dried seaweed, also KIMBAP [n GIMBAPS]
+GIMBAPS <gimbap=n> [n]
 GIMCRACK
 GIMCRACKERIES
 GIMCRACKERY
@@ -121335,6 +121339,8 @@ KILTINGS
 KILTLIKE
 KILTS
 KILTY
+KIMBAP (Korean) a dish of rice and other ingredients such as meat or vegetables wrapped in dried seaweed, also GIMBAP [n KIMBAPS]
+KIMBAPS <kimbap=n> [n]
 KIMBERLITE
 KIMBERLITES
 KIMBO
@@ -152430,8 +152436,8 @@ OGLES
 OGLING
 OGLINGS
 OGMIC
-OGONEK
-OGONEKS
+OGONEK (Polish) a diacritic appearing as a small rightward tail from the bottom of a letter [n OGONEKS]
+OGONEKS <ogonek=n> [n]
 OGRE
 OGREISH
 OGREISM
@@ -176842,6 +176848,10 @@ PREPAYING
 PREPAYMENT
 PREPAYMENTS
 PREPAYS
+PREPEND to add in front of [v PREPENDS, PREPENDED, PREPENDING]
+PREPENDED <prepend=v> [v]
+PREPENDING <prepend=v> [v]
+PREPENDS <prepend=v> [v]
 PREPENSE
 PREPENSED
 PREPENSELY
@@ -177020,12 +177030,14 @@ PREREHEARSAL
 PRERELEASE
 PRERELEASES
 PRERENAL
+PREREQ short for {prerequisite=n} [n PREREQS]
+PREREQS <prereq=n> [n]
 PREREQUIRE
 PREREQUIRED
 PREREQUIRES
 PREREQUIRING
-PREREQUISITE
-PREREQUISITES
+PREREQUISITE a requirement that must be met before taking an academic course [n PREREQUISITES]
+PREREQUISITES <prerequisite=n> [n]
 PRERETIREMENT
 PRERETIREMENTS
 PRERETURN
@@ -218107,6 +218119,8 @@ SRADHA
 SRADHAS
 SRI
 SRIS
+SSAM (Korean) a dish consisting of meat and other ingredients wrapped inside a leafy vegetable [n]
+SSAMJANG (Korean) a paste used when eating ssam [n]
 ST
 STAB
 STABBED
@@ -226440,8 +226454,8 @@ SUSCITATING
 SUSCITATION
 SUSCITATIONS
 SUSES
-SUSHI
-SUSHIS
+SUSHI (Japanese) a dish of pickled rice combined with ingredients such as raw fish or vegetables [n SUSHIS]
+SUSHIS <sushi=n> [n]
 SUSLIK
 SUSLIKS
 SUSPECT
