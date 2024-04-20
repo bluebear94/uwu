@@ -3110,17 +3110,17 @@ AERIALITIES
 AERIALITY
 AERIALLY
 AERIALS
-AERIE
+AERIE the nest of a bird of prey, also EYRIE, EYRY [n AERIES]
 AERIED
-AERIER
-AERIES
-AERIEST
+AERIER <aery=adj> [adj]
+AERIES <aerie=n> [n]
+AERIEST <aery=adj> [adj]
 AERIFIED
 AERIFIES
 AERIFORM
 AERIFY
 AERIFYING
-AERILY
+AERILY <aery=adj> [adv]
 AERO
 AEROBALLISTIC
 AEROBALLISTICS
@@ -3309,7 +3309,7 @@ AEROTROPISMS
 AERUGINOUS
 AERUGO
 AERUGOS
-AERY
+AERY having an airlike quality [adj AERIER, AERIEST, AERILY]
 AESC
 AESCES
 AESCULIN
@@ -14850,19 +14850,21 @@ AUTUNITE
 AUTUNITES
 AUXANOMETER
 AUXANOMETERS
-AUXESES
-AUXESIS
-AUXETIC
-AUXETICALLY
-AUXETICS
-AUXILIAR
-AUXILIARIES
-AUXILIARS
-AUXILIARY
-AUXIN
+AUXESES <auxesis=n> [n]
+AUXESIS the expansion of a cell in size [n AUXESES]
+AUXETIC of or pertaining to auxesis [adj AUXETICALLY] / a substance that induces auxesis [n AUXETICS]
+AUXETICALLY <auxetic=adj> [adv]
+AUXETICS <auxetic=n> [n]
+AUXILIAR archaic form of <auxiliary=n> [n AUXILIARS] / [adj AUXILIARLY]
+AUXILIARIES <auxiliary=n> [n]
+AUXILIARLY <auxiliar=adj> [adv]
+AUXILIARS <auxiliar=n> [n]
+AUXILIARY a helper [n AUXILIARIES] / providing help [adj]
+AUXILIATORY (obsolete) auxiliary [adj]
+AUXIN a hormone that plays a role in controlling plant growth [n AUXINS]
 AUXINIC
 AUXINICALLY
-AUXINS
+AUXINS <auxin=n> [n]
 AUXLANG short for auxiliary language, a conlang designed to facilitate communication between people with different native languages [n AUXLANGS]
 AUXLANGS <auxlang=n>
 AUXOMETER
@@ -15962,6 +15964,10 @@ BACKSPIN
 BACKSPINS
 BACKSPLASH
 BACKSPLASHES
+BACKSPLICE (biology) to splice a later part of pre-mRNA to an earlier part, producing a circular RNA [v BACKSPLICES, BACKSPLICED, BACKSPLICING]
+BACKSPLICED <backsplice=v> [v]
+BACKSPLICES <backsplice=v> [v]
+BACKSPLICING <backsplice=v> [v]
 BACKSTAB
 BACKSTABBED
 BACKSTABBER
@@ -73619,14 +73625,14 @@ ENRHEUM
 ENRHEUMED
 ENRHEUMING
 ENRHEUMS
-ENRICH
-ENRICHED
+ENRICH to make rich [v ENRICHES, ENRICHED, ENRICHING]
+ENRICHED <enrich=v> [v]
 ENRICHER
 ENRICHERS
-ENRICHES
-ENRICHING
-ENRICHMENT
-ENRICHMENTS
+ENRICHES <enrich=v> [v]
+ENRICHING <enrich=v> [v]
+ENRICHMENT the act of enriching [n ENRICHMENTS]
+ENRICHMENTS <enrichment=n> [n]
 ENRIDGED
 ENRING
 ENRINGED
@@ -79606,10 +79612,10 @@ EYRA
 EYRAS
 EYRE
 EYRES
-EYRIE
-EYRIES
+EYRIE the nest of a bird of prey, also AERIE, EYRY [n EYRIES]
+EYRIES <eyrie=n> [n]
 EYRIR
-EYRY
+EYRY the nest of a bird of prey, also AERIE, EYRIE [n EYRIES]
 FA the fourth note of the diatonic scale, also FAH [n FAS]
 FAB
 FABACEOUS
@@ -83332,6 +83338,8 @@ FISCAL
 FISCALLY
 FISCALS
 FISCS
+FISETIN a flavonol found in various plants [n FISETINS]
+FISETINS <fistetin=n> [n]
 FISGIG
 FISGIGS
 FISH
@@ -89287,8 +89295,8 @@ FUST
 FUSTANELLA
 FUSTANELLAS
 FUSTED
-FUSTET
-FUSTETS
+FUSTET a flowering shrub of species Cotinus coggygria native to Eurasia, once used for making dye [n FUSTETS]
+FUSTETS <fustet=n> [n]
 FUSTIAN
 FUSTIANISE
 FUSTIANISED
@@ -92720,18 +92728,18 @@ GINZOS
 GIO
 GIOCOSO
 GIOS
-GIP
+GIP to take out the entrails of [v GIPS, GIPPED, GIPPING]
 GIPON
 GIPONS
-GIPPED
+GIPPED <gip=v> [v]
 GIPPER
 GIPPERS
 GIPPIES
-GIPPING
+GIPPING <gip=v> [v]
 GIPPO
 GIPPOS
 GIPPY
-GIPS
+GIPS <gip=v> [v]
 GIPSEN
 GIPSENS
 GIPSIED
@@ -97892,21 +97900,17 @@ GYNOPHORIC
 GYNOSTEMIUM
 GYNOSTEMIUMS
 GYNY
-GYOZA
-GYOZAS
-GYP
+GYOZA a Japanese dumpling derived from the Chinese jiaozi [n GYOZAS]
+GYOZAS <gyoza=n> [n]
+GYP a college servant in Cambridge or Durham University [n GYPS]
 GYPLURE
 GYPLURES
-GYPPED
-GYPPER
-GYPPERS
 GYPPIE
 GYPPIES
-GYPPING
 GYPPO
 GYPPOS
 GYPPY
-GYPS
+GYPS <gyp=n> [n]
 GYPSEIAN
 GYPSEOUS
 GYPSIED
@@ -117385,6 +117389,8 @@ ISOENZYME
 ISOENZYMES
 ISOENZYMIC
 ISOETES
+ISOFORM (biology) one of multiple variants of a protein produced from the same gene [n ISOFORMS]
+ISOFORMS <isoform=n> [n]
 ISOGAMETE
 ISOGAMETES
 ISOGAMETIC
@@ -118754,23 +118760,23 @@ JETWAYS
 JEU
 JEUNE
 JEUX
-JEWEL
-JEWELED
-JEWELER
-JEWELERS
+JEWEL to decorate with precious stones [v JEWELS, JEWELED or JEWELLED, JEWELING or JEWELLING]
+JEWELED <jewel=v> [v]
+JEWELER one who makes, sells, or repairs jewelry, also JEWELLER [n JEWELERS]
+JEWELERS <jeweler=n> [n]
 JEWELFISH
 JEWELFISHES
-JEWELING
-JEWELLED
-JEWELLER
-JEWELLERIES
-JEWELLERS
-JEWELLERY
+JEWELING <jewel=v> [v]
+JEWELLED <jewel=v> [v]
+JEWELLER one who makes, sells, or repairs jewelry, also JEWELER [n JEWELLERS]
+JEWELLERIES <jewellery=n> [n]
+JEWELLERS <jeweller=n> [n]
+JEWELLERY an article of precious metals or stones worn for adornment, also JEWELRY [n JEWELLERIES]
 JEWELLIKE
-JEWELLING
-JEWELRIES
-JEWELRY
-JEWELS
+JEWELLING <jewel=v> [v]
+JEWELRIES <jewelry=n> [n]
+JEWELRY an article of precious metals or stones worn for adornment, also JEWELLERY [n JEWELRIES]
+JEWELS <jewel=v> [v]
 JEWELWEED
 JEWELWEEDS
 JEWFISH
@@ -118781,8 +118787,10 @@ JEZEBEL
 JEZEBELS
 JHALA
 JHALAS
-JIAO
-JIAOS
+JIAO a monetary subunit in China equal to 1/10 of a yuan [n JIAOS]
+JIAOS <jiao=n> [n]
+JIAOZI a type of Chinese dumpling [n JIAOZIS]
+JIAOZIS <jiaozi=n> [n]
 JIB
 JIBARO
 JIBAROS
@@ -124556,8 +124564,8 @@ LAVATIONS
 LAVATORIAL
 LAVATORIES
 LAVATORY
-LAVE
-LAVED
+LAVE to wash [v LAVES, LAVED, LAVING]
+LAVED <lave=v> [v]
 LAVEER
 LAVEERED
 LAVEERING
@@ -124568,16 +124576,16 @@ LAVENDER
 LAVENDERED
 LAVENDERING
 LAVENDERS
-LAVER
-LAVERBREAD
-LAVERBREADS
+LAVER a basin for washing [n LAVERS]
+LAVERBREAD a food made from edible seaweed, eaten mainly in Wales [n LAVERBREADS]
+LAVERBREADS <laverbread=n> [n]
 LAVEROCK
 LAVEROCKED
 LAVEROCKING
 LAVEROCKS
-LAVERS
-LAVES
-LAVING
+LAVERS <laver=n> [n]
+LAVES <lave=v> [v]
+LAVING <lave=v> [v]
 LAVISH
 LAVISHED
 LAVISHER
@@ -127118,8 +127126,8 @@ LINSANG
 LINSANGS
 LINSEED
 LINSEEDS
-LINSEY
-LINSEYS
+LINSEY linsey-woolsey, a cloth made of linen and wool [n LINSEYS]
+LINSEYS <linsey=n> [n]
 LINSTOCK
 LINSTOCKS
 LINT
@@ -145492,10 +145500,10 @@ NAVIGATIONALLY
 NAVIGATIONS
 NAVIGATOR
 NAVIGATORS
-NAVVIED
-NAVVIES
-NAVVY
-NAVVYING
+NAVVIED <navvy=v> [v]
+NAVVIES <navvy=v> [v]
+NAVVY to work as a laborer in a civil engineering project [v NAVVIES, NAVVIED, NAVVYING]
+NAVVYING <navvy=v> [v]
 NAVY
 NAW
 NAWAB
@@ -183794,17 +183802,17 @@ QUIESCENT
 QUIESCENTLY
 QUIESCES
 QUIESCING
-QUIET
-QUIETED
+QUIET having little noise [adj QUIETER, QUIETEST, QUIETLY] / to make quiet [v QUIETS, QUIETED, QUIETING]
+QUIETED <quiet=v> [v]
 QUIETEN
 QUIETENED
 QUIETENING
 QUIETENINGS
 QUIETENS
-QUIETER
+QUIETER <quiet=adj> [adj]
 QUIETERS
-QUIETEST
-QUIETING
+QUIETEST <quiet=adj> [adj]
+QUIETING <quiet=v> [v]
 QUIETINGS
 QUIETISM
 QUIETISMS
@@ -183813,10 +183821,10 @@ QUIETISTIC
 QUIETISTS
 QUIETIVE
 QUIETIVES
-QUIETLY
-QUIETNESS
-QUIETNESSES
-QUIETS
+QUIETLY <quiet=adj> [adv]
+QUIETNESS the state of being quiet [n QUIETNESSES]
+QUIETNESSES <quietness=n> [n]
+QUIETS <quiet=v> [v]
 QUIETSOME
 QUIETUDE
 QUIETUDES
@@ -184091,8 +184099,8 @@ QUITTED
 QUITTER
 QUITTERS
 QUITTING
-QUITTOR
-QUITTORS
+QUITTOR an infection in the lower leg of an equine [n QUITTORS]
+QUITTORS <quittor=n> [n]
 QUIVER
 QUIVERED
 QUIVERER
@@ -191368,8 +191376,8 @@ RENITENCES
 RENITENCIES
 RENITENCY
 RENITENT
-RENMINBI
-RENMINBIS
+RENMINBI the official currency of the People’s Republic of China [n RENMINBIS]
+RENMINBIS <renminbi=n> [n]
 RENNASE
 RENNASES
 RENNE
@@ -195468,17 +195476,17 @@ RIBOFLAVINES
 RIBOFLAVINS
 RIBONUCLEASE
 RIBONUCLEASES
-RIBONUCLEOPROTEIN
-RIBONUCLEOPROTEINS
+RIBONUCLEOPROTEIN (biology) a complex of RNA and RNA-binding protein [n RIBONUCLEOPROTEINS]
+RIBONUCLEOPROTEINS <ribonucleoprotein=n> [n]
 RIBONUCLEOSIDE
 RIBONUCLEOSIDES
 RIBONUCLEOTIDE
 RIBONUCLEOTIDES
-RIBOSE
-RIBOSES
-RIBOSOMAL
-RIBOSOME
-RIBOSOMES
+RIBOSE a five-carbon sugar used in RNA [n RIBOSES]
+RIBOSES <ribose=n> [n]
+RIBOSOMAL of or pertaining to ribosomes [adj]
+RIBOSOME (biology) the part of a cell responsible for translating RNA into proteins [n RIBOSOMES]
+RIBOSOMES <ribosome=n> [n]
 RIBOZYME
 RIBOZYMES
 RIBS
@@ -195490,10 +195498,10 @@ RIBWORK
 RIBWORKS
 RIBWORT
 RIBWORTS
-RICE
+RICE to turn into rice-shaped pieces [v RICES, RICED, RICING]
 RICEBIRD
 RICEBIRDS
-RICED
+RICED <rice=v> [v]
 RICEGRAIN
 RICEGRAINS
 RICER
@@ -195505,23 +195513,23 @@ RICERCARS
 RICERCATA
 RICERCATAS
 RICERS
-RICES
+RICES <rice=v> [v]
 RICEY
-RICH
-RICHED
-RICHEN
-RICHENED
-RICHENING
-RICHENS
-RICHER
-RICHES
+RICH abounding in material possessions [adj RICHER, RICHEST, RICHLY] / to make rich [v RICHES, RICHED, RICHING]
+RICHED <rich=v> [v]
+RICHEN to become rich [v RICHENS, RICHENED, RICHENING]
+RICHENED <rich=v> [v]
+RICHENING <rich=v> [v]
+RICHENS <rich=v> [v]
+RICHER <rich=adj> [adj]
+RICHES <rich=v> [v]
 RICHESSE
 RICHESSES
-RICHEST
-RICHING
-RICHLY
-RICHNESS
-RICHNESSES
+RICHEST <rich=adj> [adj]
+RICHING <rich=v> [v]
+RICHLY <rich=adj> [adv]
+RICHNESS the state of being rich [n RICHNESSES]
+RICHNESSES <richness=n> [n]
 RICHT
 RICHTED
 RICHTER
@@ -195532,10 +195540,10 @@ RICHWEED
 RICHWEEDS
 RICIER
 RICIEST
-RICIN
-RICING
+RICIN a toxin produced by the castor oil plant [n RICINS]
+RICING <rice=v> [v]
 RICINOLEIC
-RICINS
+RICINS <ricin=n> [n]
 RICINUS
 RICINUSES
 RICK
@@ -209826,16 +209834,16 @@ SIP
 SIPE
 SIPED
 SIPES
-SIPHON
+SIPHON a pipe-shaped device for transferring liquid [n SIPHONS] / to transfer liquid through a siphon [v SIPHONS, SIPHONED, SIPHONING]
 SIPHONAGE
 SIPHONAGES
-SIPHONAL
-SIPHONATE
-SIPHONED
+SIPHONAL of or pertaining to a siphon [adj]
+SIPHONATE having a siphon [adj]
+SIPHONED <siphon=v> [v]
 SIPHONET
 SIPHONETS
 SIPHONIC
-SIPHONING
+SIPHONING <siphon=v> [v]
 SIPHONOGAM
 SIPHONOGAMIES
 SIPHONOGAMS
@@ -209846,7 +209854,7 @@ SIPHONOPHOROUS
 SIPHONOSTELE
 SIPHONOSTELES
 SIPHONOSTELIC
-SIPHONS
+SIPHONS <siphon=v> [v]
 SIPHUNCLE
 SIPHUNCLES
 SIPING
@@ -216835,12 +216843,14 @@ SPLENT
 SPLENTS
 SPLEUCHAN
 SPLEUCHANS
-SPLICE
-SPLICED
-SPLICER
-SPLICERS
-SPLICES
-SPLICING
+SPLICE to join two ends together [v SPLICES, SPLICED, SPLICING]
+SPLICED <splice=v> [v]
+SPLICEOSOME (biology) a large ribonucleoprotein complex responsible for removing introns from pre-RNA [n SPLICEOSOMES]
+SPLICEOSOMES <spliceosome=n> [n]
+SPLICER one who splices [n SPLICERS]
+SPLICERS <splicer=n> [n]
+SPLICES <splice=v> [v]
+SPLICING <splice=v> [v]
 SPLIFF
 SPLIFFS
 SPLINE
@@ -224393,6 +224403,8 @@ SUKKAHS
 SUKKOT
 SUKKOTH
 SUKS
+SUKUN a diacritic in the Arabic script that indicates the lack of a vowel after a consonant [n SUKUNS]
+SUKUNS <sukun=n> [n]
 SULCAL
 SULCALISE
 SULCALISED
@@ -254635,6 +254647,8 @@ VIRAGOISH
 VIRAGOS
 VIRAL
 VIRALLY
+VIRAMA a diacritic in many Brahmic scripts to suppress the inherent vowel of a consonant letter [n VIRAMAS]
+VIRAMAS <virama=n> [n]
 VIRANDA
 VIRANDAS
 VIRANDO
@@ -259576,10 +259590,10 @@ WINCED
 WINCER
 WINCERS
 WINCES
-WINCEY
+WINCEY linsey-woolsey, a cloth made of linen and wool [n WICEYS]
 WINCEYETTE
 WINCEYETTES
-WINCEYS
+WINCEYS <wincey=n> [n]
 WINCH
 WINCHED
 WINCHER
@@ -260757,8 +260771,8 @@ WOOLPACKS
 WOOLS
 WOOLSACK
 WOOLSACKS
-WOOLSEY
-WOOLSEYS
+WOOLSEY linsey-woolsey, a cloth made of linen and wool [n WOOLSEYS]
+WOOLSEYS <woolsey=n> [n]
 WOOLSHED
 WOOLSHEDS
 WOOLSKIN
@@ -262661,8 +262675,8 @@ YTTRIOUS
 YTTRIUM
 YTTRIUMS
 YU
-YUAN
-YUANS
+YUAN a unit of the Chinese renminbi [n YUANS]
+YUANS <yuan=n> [n]
 YUCA
 YUCAS
 YUCCA
