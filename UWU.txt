@@ -83339,7 +83339,7 @@ FISCALLY
 FISCALS
 FISCS
 FISETIN a flavonol found in various plants [n FISETINS]
-FISETINS <fistetin=n> [n]
+FISETINS <fisetin=n> [n]
 FISGIG
 FISGIGS
 FISH
