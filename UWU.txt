@@ -3794,7 +3794,7 @@ AGEDNESSES
 AGEE
 AGEING <age=v> [v] / the act of aging, also AGING [n AGEINGS]
 AGEINGS <ageing=n>
-AGEISM prejudice or discrimination on the basis of age, also AGISM [n AGEISMS]
+AGEISM bias or prejudice on the basis of age, also AGISM [n AGEISMS]
 AGEISMS <ageism=n>
 AGEIST
 AGEISTS
@@ -3981,7 +3981,7 @@ AGIO
 AGIOS
 AGIOTAGE
 AGIOTAGES
-AGISM prejudice or discrimination on the basis of age, also AGEISM [n AGISMS]
+AGISM bias or prejudice on the basis of age, also AGEISM [n AGISMS]
 AGISMS <agism=n>
 AGIST
 AGISTED
@@ -7208,7 +7208,7 @@ ANAGRAMMATIZING
 ANAGRAMMED <anagram=v> [v]
 ANAGRAMMING <anagram=v> [v]
 ANAGRAMS <anagram=v> [v]
-ANAL
+ANAL of or pertaining to the anus [adj ANALLY] / anal intercourse [n ANALS]
 ANALCIME
 ANALCIMES
 ANALCIMIC
@@ -7233,7 +7233,7 @@ ANALGIA
 ANALGIAS
 ANALITIES
 ANALITY
-ANALLY
+ANALLY <anal=adj> [adv]
 ANALOG
 ANALOGA
 ANALOGIC
@@ -7268,6 +7268,7 @@ ANALPHABETICS
 ANALPHABETISM
 ANALPHABETISMS
 ANALPHABETS
+ANALS <anal=n> [n]
 ANALYSABLE
 ANALYSAND
 ANALYSANDS
@@ -36057,6 +36058,7 @@ CHIAUS
 CHIAUSED
 CHIAUSES
 CHIAUSING
+CHIBI (Japanese) drawn in a style with exaggerated proportions to emphasize cuteness [adj]
 CHIBOL
 CHIBOLS
 CHIBOUK
@@ -38169,7 +38171,7 @@ CIRCITER
 CIRCLE to travel in a circular path [n CIRCLES, CIRCLED, CIRCLING]
 CIRCLED <circle=n> [n]
 CIRCLEJERK (vulgar) an activity in which participants mutually masturbate [n CIRCLEJERKS]
-CIRCLEJERK <circlejerk=n> [n]
+CIRCLEJERKS <circlejerk=n> [n]
 CIRCLER
 CIRCLERS
 CIRCLES <circle=n> [n]
@@ -38457,7 +38459,7 @@ CIRROSTRATUS
 CIRROUS
 CIRRUS
 CIRSOID
-CIS
+CIS having functional groups on one side of a double bond [adj]
 CISALPINE
 CISATLANTIC
 CISCO
@@ -69138,6 +69140,7 @@ ECCENTRICALLY
 ECCENTRICITIES
 ECCENTRICITY
 ECCENTRICS
+ECCHI (Japanese) sexually explicit [adj]
 ECCHYMOSED
 ECCHYMOSES
 ECCHYMOSIS
@@ -122387,6 +122390,8 @@ KORMAS
 KORORA
 KORORAS
 KORS
+KORU (Māori) a stylized curved pattern [n KORUS]
+KORUS <koru=n> [n]
 KORUN
 KORUNA
 KORUNAS
@@ -203690,16 +203695,16 @@ SEAJACKING
 SEAJACKS
 SEAKALE
 SEAKALES
-SEAL
-SEALABLE
-SEALANT
-SEALANTS
+SEAL to shut close [v SEALS, SEALED, SEALING]
+SEALABLE able to be sealed [adj]
+SEALANT a substance used for sealing [n SEALANTS]
+SEALANTS <sealant=n> [n]
 SEALCH
 SEALCHS
-SEALED
-SEALER
+SEALED <seal=v> [v]
+SEALER one who hunts seals [n SEALERS]
 SEALERIES
-SEALERS
+SEALERS <sealer=n> [n]
 SEALERY
 SEALGH
 SEALGHS
@@ -203709,14 +203714,18 @@ SEALIFTING
 SEALIFTS
 SEALINE
 SEALINES
-SEALING
+SEALING <seal=v> [v]
 SEALINGS
-SEALLIKE
+SEALION (Internet) to troll someone by pestering them relentlessly with questions under the guise of having a debate [v SEALIONS, SEALIONED, SEALIONING]
+SEALIONED <sealion=v> [v]
+SEALIONING <sealion=v> [v]
+SEALIONS <sealion=v> [v]
+SEALLIKE resembling a seal [adj]
 SEALPOINT
 SEALPOINTS
-SEALS
-SEALSKIN
-SEALSKINS
+SEALS <seal=v> [v]
+SEALSKIN the skin of a seal [n SEALSKINS]
+SEALSKINS <sealskin=n> [n]
 SEALWAX
 SEALWAXES
 SEALYHAM
@@ -237622,15 +237631,15 @@ TRANGAM
 TRANGAMS
 TRANGLE
 TRANGLES
-TRANK
-TRANKS
+TRANK short for {tranquilizer=n}, also TRANQ [n TRANKS]
+TRANKS <trank=n> [n]
 TRANKUM
 TRANKUMS
 TRANNIE
 TRANNIES
 TRANNY
-TRANQ
-TRANQS
+TRANQ short for {tranquilizer=n}, also TRANK [n TRANQS]
+TRANQS <tranq=n> [n]
 TRANQUIL
 TRANQUILER
 TRANQUILEST
@@ -237670,7 +237679,7 @@ TRANQUILLIZINGLY
 TRANQUILLY
 TRANQUILNESS
 TRANQUILNESSES
-TRANS
+TRANS having functional groups on opposite sides of a double bond [adj]
 TRANSACT
 TRANSACTED
 TRANSACTING
@@ -237877,8 +237886,8 @@ TRANSFUSIONISTS
 TRANSFUSIONS
 TRANSFUSIVE
 TRANSFUSIVELY
-TRANSGENDER
-TRANSGENDERED
+TRANSGENDER identifying as a gender different from one’s assigned sex, also TRANSGENDERED [adj]
+TRANSGENDERED identifying as a gender different from one’s assigned sex, also TRANSGENDER [adj]
 TRANSGENERATIONAL
 TRANSGENESES
 TRANSGENESIS
@@ -238128,6 +238137,9 @@ TRANSPARENTLY
 TRANSPARENTNESS
 TRANSPARENTNESSES
 TRANSPERSONAL
+TRANSPHOBIA bias or prejudice against transgender people [n TRANSPHOBIAS]
+TRANSPHOBIAS <transphobia=n> [n]
+TRANSPHOBIC harboring transphobia [adj]
 TRANSPICUOUS
 TRANSPICUOUSLY
 TRANSPIERCE
