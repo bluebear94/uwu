@@ -122391,11 +122391,11 @@ KORORA
 KORORAS
 KORS
 KORU (Māori) a stylized curved pattern [n KORUS]
-KORUS <koru=n> [n]
 KORUN
 KORUNA
 KORUNAS
 KORUNY
+KORUS <koru=n> [n]
 KOS
 KOSES
 KOSHER
