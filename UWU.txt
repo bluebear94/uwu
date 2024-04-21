@@ -33650,11 +33650,13 @@ CEILS
 CEINTURE
 CEINTURES
 CEL
-CELADON
-CELADONS
-CELANDINE
-CELANDINES
-CELEB
+CELADON a type of green porcelain originating in China [n CELADONS]
+CELADONS <celadon=n> [n]
+CELANDINE a flowering plant of species Chelidonium majus, native to Europe and western Asia [n CELANDINES]
+CELANDINES <celandine=n> [n]
+CELATURE the act of engraving or embossing [n CELATURES]
+CELATURES <celature=n> [n]
+CELEB short for {celebrity=n} [n CELEBS]
 CELEBRANT
 CELEBRANTS
 CELEBRATE
@@ -33671,31 +33673,31 @@ CELEBRATORS
 CELEBRATORY
 CELEBRITIES
 CELEBRITY
-CELEBS
-CELERIAC
-CELERIACS
-CELERIES
-CELERITIES
-CELERITY
-CELERY
-CELESTA
-CELESTAS
-CELESTE
-CELESTES
-CELESTIAL
-CELESTIALLY
-CELESTIALS
-CELESTINE
-CELESTINES
-CELESTITE
-CELESTITES
+CELEBS <celeb=n> [n]
+CELERIAC a variety of celery cultivated for its bulbous stem [n CELERIACS]
+CELERIACS <celeriac=n> [n]
+CELERIES <celery=n> [n]
+CELERITIES <celerity=n> [n]
+CELERITY swiftness [n CELERITIES]
+CELERY a plant of species Apium graveolens, whose stalks, leaves, or seeds are eaten [n CELERIES]
+CELESTA an ideophone played with a keyboard, also CELESTE [n CELESTAS]
+CELESTAS <celesta=n> [n]
+CELESTE an ideophone played with a keyboard, also CELESTA [n CELESTES]
+CELESTES <celeste=n> [n]
+CELESTIAL of or pertaining to the sky [adj CELESTIALLY] / an inhabitant of heaven [n CELESTIALS]
+CELESTIALLY <celestial=adj> [adv]
+CELESTIALS <celestial=n> [n]
+CELESTINE a light blue mineral consisting of strontium sulfate, also CELESTITE [n CELESTINES]
+CELESTINES <celestine=n> [n]
+CELESTITE a light blue mineral consisting of strontium sulfate, also CELESTINE [n CELESTITES]
+CELESTITES <celestite=n> [n]
 CELIAC
 CELIACS
-CELIBACIES
-CELIBACY
+CELIBACIES <celibacy=n> [n]
+CELIBACY the state of being celibate [n CELIBACIES]
 CELIBATARIAN
-CELIBATE
-CELIBATES
+CELIBATE one who abstains from sexual activity [n CELIBATES]
+CELIBATES <celibate=n> [n]
 CELL to confine in a small room [v CELLS, CELLED, CELLING]
 CELLA
 CELLAE
@@ -81622,6 +81624,8 @@ FEMALITY
 FEMALS
 FEMBOY a feminine boy [n FEMBOYS]
 FEMBOYS <femboy=n> [n]
+FEMCEL a female incel [n FEMCELS]
+FEMCELS <femcel=n> [n]
 FEME
 FEMERALL
 FEMERALLS
@@ -110654,6 +110658,10 @@ INCEDED
 INCEDES
 INCEDING
 INCEDINGLY
+INCEL short for involuntary celibate, someone (especially male) who is frustrated by their inability to get a sexual partner [n INCELS]
+INCELDOM the state of being an incel [n INCELDOM]
+INCELDOMS <inceldom=n> [n]
+INCELS <incel=n> [n]
 INCENDIARIES
 INCENDIARISM
 INCENDIARISMS
@@ -110674,25 +110682,25 @@ INCENSOR
 INCENSORIES
 INCENSORS
 INCENSORY
-INCENTER
-INCENTERS
-INCENTIVE
-INCENTIVELY
-INCENTIVES
-INCENTIVISATION
-INCENTIVISATIONS
-INCENTIVISE
-INCENTIVISED
-INCENTIVISES
-INCENTIVISING
-INCENTIVIZATION
-INCENTIVIZATIONS
-INCENTIVIZE
-INCENTIVIZED
-INCENTIVIZES
-INCENTIVIZING
-INCENTRE
-INCENTRES
+INCENTER the center of a circle inscribed inside a triangle, also INCENTRE [n INCENTERS]
+INCENTERS <incenter=n> [n]
+INCENTIVE something that motivates [n INCENTIVES] / tending to motivate [adj INCENTIVELY]
+INCENTIVELY <incentively=adj> [adv]
+INCENTIVES <incentive=n> [n]
+INCENTIVISATION the act of incentivizing, also INCENTIVIZATION [n INCENTIVISATIONS]
+INCENTIVISATIONS <incentivisation=n> [n]
+INCENTIVISE to give an incentive to, also INCENTIVIZE [v INCENTIVISES, INCENTIVISED, INCENTIVISING]
+INCENTIVISED <incentivise=v> [v]
+INCENTIVISES <incentivise=v> [v]
+INCENTIVISING <incentivise=v> [v]
+INCENTIVIZATION the act of incentivizing, also INCENTIVISATION [n INCENTIVIZATIONS]
+INCENTIVIZATIONS <incentivization=n> [n]
+INCENTIVIZE to give an incentive to, also INCENTIVISE [v INCENTIVIZES, INCENTIVIZED, INCENTIVIZING]
+INCENTIVIZED <incentivize=v> [v]
+INCENTIVIZES <incentivize=v> [v]
+INCENTIVIZING <incentivize=v> [v]
+INCENTRE the center of a circle inscribed inside a triangle, also INCENTER [n INCENTRES]
+INCENTRES <incentre=n> [n]
 INCEPT
 INCEPTED
 INCEPTING
@@ -110711,8 +110719,8 @@ INCERTITUDE
 INCERTITUDES
 INCESSANCIES
 INCESSANCY
-INCESSANT
-INCESSANTLY
+INCESSANT not stopping [adj INCESSANTLY]
+INCESSANTLY <incessant=adj> [adv]
 INCESSANTNESS
 INCESSANTNESSES
 INCEST
@@ -136513,6 +136521,10 @@ MICRODONT
 MICRODONTISM
 MICRODONTISMS
 MICRODONTOUS
+MICRODOSE to consume a substance in very small amounts [v MICRODOSES, MICRODOSED, MICRODOSING]
+MICRODOSE <microdose=v> [v]
+MICRODOSES <microdose=v> [v]
+MICRODOSING <microdose=v> [v]
 MICRODOT
 MICRODOTS
 MICROEARTHQUAKE
@@ -255627,6 +255639,8 @@ VOLCANOLOGIST
 VOLCANOLOGISTS
 VOLCANOLOGY
 VOLCANOS
+VOLCEL short for voluntary celibate, one who voluntarily abstains from sexual activity, as opposed to an incel [n VOLCELS]
+VOLCELS <volcel=n> [n]
 VOLE
 VOLED
 VOLENS
