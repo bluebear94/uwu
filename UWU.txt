@@ -53920,64 +53920,73 @@ DEACTIVATION
 DEACTIVATIONS
 DEACTIVATOR
 DEACTIVATORS
-DEAD
-DEADBEAT
-DEADBEATS
+DEAD deprived of life [adj DEADER, DEADEST] / to make dead [DEADS, DEADED, DEADING]
+DEADBEAT one who avoids paying debt or neglects responsibilities [n DEADBEATS]
+DEADBEATS <deadbeat=n> [n]
 DEADBOLT
 DEADBOLTS
-DEADED
-DEADEN
-DEADENED
-DEADENER
-DEADENERS
-DEADENING
-DEADENINGLY
-DEADENINGS
-DEADENS
-DEADER
+DEADBORN stillborn [adj]
+DEADED <dead=v> [v]
+DEADEN to lessen in force [v DEADENS, DEADENED, DEADENING]
+DEADENED <deaden=v> [v]
+DEADENER one who deadens [n DEADENER]
+DEADENERS <deadener=n> [n]
+DEADENING <deaden=v> [v] / the act of deadening [n DEADENINGS] / tending to deaden [adj DEADENINGLY]
+DEADENINGLY <deadening=adj> [adv]
+DEADENINGS <deadening=n> [n]
+DEADENS <deaden=v> [v]
+DEADER <dead=adj> [adj]
 DEADERS
-DEADEST
+DEADEST <dead=adj> [adj]
 DEADEYE
 DEADEYES
 DEADFALL
 DEADFALLS
-DEADHEAD
-DEADHEADED
-DEADHEADING
-DEADHEADS
-DEADHOUSE
-DEADHOUSES
-DEADING
-DEADLIER
-DEADLIEST
+DEADHEAD to attend an event without having paid for a ticket [v DEADHEADS, DEADHEADED, DEADHEADING]
+DEADHEADED <deadhead=v> [v]
+DEADHEADING <deadhead=v> [v]
+DEADHEADS <deadhead=v> [v]
+DEADHOUSE a morgue [n DEADHOUSES]
+DEADHOUSES <deadhouse=n> [n]
+DEADING <dead=v> [v]
+DEADLATCH a kind of latch that can be made to be unopenable from the inside or the outside [n DEADLATCHES]
+DEADLATCHES <deadlatch=n> [n]
+DEADLIER <deadly=adj> [adj]
+DEADLIEST <deadly=adj> [adj]
 DEADLIFT
 DEADLIFTED
 DEADLIFTING
 DEADLIFTS
-DEADLIGHT
-DEADLIGHTS
-DEADLINE
-DEADLINED
-DEADLINES
-DEADLINESS
-DEADLINESSES
-DEADLINING
-DEADLOCK
-DEADLOCKED
-DEADLOCKING
-DEADLOCKS
-DEADLY
+DEADLIGHT a strong shutter designed to keep out water during a storm [n DEADLIGHTS]
+DEADLIGHTS <deadilght=n> [n]
+DEADLIHOOD (obsolete) the state of the dead [n DEADLIHOODS]
+DEADLIHOODS <deadlihood=n> [n]
+DEADLINE to set a date by which something must be submitted [v DEADLINES, DEADLINED, DEADLINING]
+DEADLINED <deadline=v> [v]
+DEADLINES <deadline=v> [v]
+DEADLINESS the quality of being deadly [n DEADLINESSES]
+DEADLINESSES <deadliness=n> [n]
+DEADLINING <deadline=v> [v]
+DEADLOCK (computing) to reach a state where no thread can advance its progress [v DEADLOCKS, DEADLOCKED, DEADLOCKING]
+DEADLOCKED <deadlock=v> [v]
+DEADLOCKING <deadlock=v> [v]
+DEADLOCKS <deadlock=v> [v]
+DEADLY tending to cause death [adj DEADLIER, DEADLIEST]
 DEADMAN
 DEADMEN
-DEADNESS
-DEADNESSES
+DEADNAME to call (especially a transgender person) by a former name [v DEADNAMED, DEADNAMED, DEADNAMING]
+DEADNAMED <deadname=v> [v]
+DEADNAMES <deadname=v> [v]
+DEADNAMING <deadname=v> [v]
+DEADNESS the state of being dead [n DEADNESSES]
+DEADNESSES <deadness=n> [n]
 DEADPAN
 DEADPANNED
 DEADPANNER
 DEADPANNERS
 DEADPANNING
 DEADPANS
-DEADS
+DEADS <dead=v> [v]
 DEADSTOCK
 DEADSTOCKS
 DEADSTROKE
