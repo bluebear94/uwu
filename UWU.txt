@@ -24962,7 +24962,7 @@ BORNITES
 BORNITIC
 BOROHYDRIDE
 BOROHYDRIDES
-BORON a nonmetallic chemical element with atomic number 5, found in borax [n BORONS]
+BORON a nonmetallic chemical element with symbol B and atomic number 5, found in borax [n BORONS]
 BORONIA
 BORONIAS
 BORONIC
@@ -46536,29 +46536,29 @@ COPOLYMERS
 COPOUT
 COPOUTS
 COPPED
-COPPER
+COPPER a red metallic chemical element with symbol Cu and atomic number 29 [n COPPERS] / to cover with copper [v COPPERS, COPPERED, COPPERING]
 COPPERAH
 COPPERAHS
 COPPERAS
 COPPERASES
-COPPERED
-COPPERHEAD
-COPPERHEADS
-COPPERING
+COPPERED <copper=v> [v]
+COPPERHEAD one of various species of snakes, most frequently Agkistrodon contortix [n COPPERHEADS]
+COPPERHEADS <copperhead=n> [n]
+COPPERING <copper=v> [v]
 COPPERINGS
-COPPERISH
-COPPERPLATE
-COPPERPLATES
-COPPERS
-COPPERSMITH
-COPPERSMITHS
+COPPERISH resmebling copper [adj]
+COPPERPLATE a plate of polished copper with a design or writing engraved on it [n COPPERPLATES]
+COPPERPLATES <copperplate=n> [n]
+COPPERS <copper=v> [v]
+COPPERSMITH one who manufactures copper utensils [n COPPERSMITHS]
+COPPERSMITHS <coppersmith=n> [n]
 COPPERWARE
 COPPERWARES
 COPPERWORK
 COPPERWORKS
-COPPERWORM
-COPPERWORMS
-COPPERY
+COPPERWORM a teredo [n COPPERWORMS]
+COPPERWORMS <copperworm=n> [n]
+COPPERY of or resembling copper [adj]
 COPPICE
 COPPICED
 COPPICES
@@ -51633,16 +51633,18 @@ CUPPINGS
 CUPPY
 CUPRAMMONIUM
 CUPRAMMONIUMS
-CUPREOUS
-CUPRIC
-CUPRIFEROUS
-CUPRITE
-CUPRITES
-CUPRONICKEL
-CUPRONICKELS
-CUPROUS
-CUPRUM
-CUPRUMS
+CUPRATE an anion containing copper [n CUPRATES]
+CUPRATES <cuprate=n> [n]
+CUPREOUS consisting of or resembling copper [adj]
+CUPRIC containing the copper(II) ion [adj]
+CUPRIFEROUS containing copper [adj]
+CUPRITE a mineral consisting of copper(I) oxide [n CUPRITES]
+CUPRITES <cuprite=n> [n]
+CUPRONICKEL an alloy of copper and nickel [n CUPRONICKELS]
+CUPRONICKELS <cupronickel=n> [n]
+CUPROUS containing the copper(I) ion [adj]
+CUPRUM (Latin) copper [n CUPRUMS]
+CUPRUMS <cuprum=n> [n]
 CUPS <cup=v> [v]
 CUPSFUL
 CUPULA
@@ -58779,10 +58781,10 @@ DESTRUCTORS
 DESTRUCTS
 DESUETUDE
 DESUETUDES
-DESUGAR
-DESUGARED
-DESUGARING
-DESUGARS
+DESUGAR to remove sugar from [v DESUGARS, DESUGARED, DESUGARING]
+DESUGARED <desugar=v> [v]
+DESUGARING <desugar=v> [v]
+DESUGARS <desugar=v> [v]
 DESULFUR
 DESULFURED
 DESULFURING
@@ -207659,8 +207661,8 @@ SHIPSIDE
 SHIPSIDES
 SHIPWAY
 SHIPWAYS
-SHIPWORM
-SHIPWORMS
+SHIPWORM a marine bivalve mollusk in the family Teredinidae, known for its tendency to destroy wood [n SHIPWORMS]
+SHIPWORMS <shipworm=n> [n]
 SHIPWRECK
 SHIPWRECKED
 SHIPWRECKING
@@ -224309,7 +224311,7 @@ SUFFUSING
 SUFFUSION
 SUFFUSIONS
 SUFFUSIVE
-SUGAR
+SUGAR to add sugar to [v SUGARS, SUGARED, SUGARING]
 SUGARALLIE
 SUGARALLIES
 SUGARALLY
@@ -224321,29 +224323,29 @@ SUGARBUSH
 SUGARBUSHES
 SUGARCANE
 SUGARCANES
-SUGARCOAT
-SUGARCOATED
-SUGARCOATING
-SUGARCOATS
-SUGARED
+SUGARCOAT to coat with sugar [v SUGARCOATS, SUGARCOATED, SUGARCOATING]
+SUGARCOATED <sugarcoat=v> [v]
+SUGARCOATING <sugarcoat=v> [v]
+SUGARCOATS <sugarcoat=v> [v]
+SUGARED <sugar=v> [v]
 SUGARER
 SUGARERS
 SUGARHOUSE
 SUGARHOUSES
-SUGARIER
-SUGARIEST
+SUGARIER <sugary=adj> [adj]
+SUGARIEST <sugary=adj> [adj]
 SUGARINESS
 SUGARINESSES
-SUGARING
+SUGARING <sugar=v> [v]
 SUGARINGS
-SUGARLESS
-SUGARLIKE
+SUGARLESS lacking sugar [adj]
+SUGARLIKE resembling sugar [adj]
 SUGARLOAF
 SUGARLOAVES
 SUGARPLUM
 SUGARPLUMS
-SUGARS
-SUGARY
+SUGARS <sugar=v> [v]
+SUGARY high in sugar [adj SUGARIER, SUGARIEST]
 SUGGEST
 SUGGESTED
 SUGGESTER
@@ -231990,8 +231992,8 @@ TEREBRATULA
 TEREBRATULAE
 TEREBRATULAS
 TEREDINES
-TEREDO
-TEREDOS
+TEREDO any saltwater clam of the genus Teredo, commonly known as shipworms [n TEREDOS]
+TEREDOS <teredo=n> [n]
 TEREFA
 TEREFAH
 TEREK
