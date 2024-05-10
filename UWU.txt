@@ -15509,7 +15509,7 @@ AZYMITE
 AZYMITES
 AZYMOUS
 AZYMS
-BA
+BA the part of the soul imparting personality in ancient Egyptian religion [n BAS]
 BAA to vocalize like a sheep [v BAAS, BAAED, BAAING]
 BAAED <baa=v> [v]
 BAAING <baa=v> [v]
@@ -35953,14 +35953,16 @@ CHESTNUT
 CHESTNUTS
 CHESTS
 CHESTY
+CHET the 8th letter of the Hebrew alphabet, also CHETH, HET, HETH, KHET, KHETH [n CHETS]
 CHETAH
 CHETAHS
-CHETH
-CHETHS
+CHETH the 8th letter of the Hebrew alphabet, also CHET, HET, HETH, KHET, KHETH [n CHETHS]
+CHETHS <cheth=n> [n]
 CHETNIK
 CHETNIKS
 CHETRUM
 CHETRUMS
+CHETS <chet=n> [n]
 CHEVALET
 CHEVALETS
 CHEVALIER
@@ -37062,6 +37064,9 @@ CHONDROSTIANS
 CHONDRULE
 CHONDRULES
 CHONDRUS
+CHONKIER <chonky=adj> [adj]
+CHONKIEST <chonky=adj> [adj]
+CHONKY (slang) plump [adj CHONKIER, CHONKIEST]
 CHONS
 CHOOF
 CHOOFED
@@ -65223,7 +65228,7 @@ DOFFER
 DOFFERS
 DOFFING
 DOFFS
-DOG
+DOG to hunt or track like a hound [v DOGS, DOGGED, DOGGING]
 DOGARESSA
 DOGARESSAS
 DOGATE
@@ -65266,12 +65271,12 @@ DOGFISHES
 DOGFOUGHT
 DOGFOX
 DOGFOXES
-DOGGED
-DOGGEDER
-DOGGEDEST
-DOGGEDLY
-DOGGEDNESS
-DOGGEDNESSES
+DOGGED <dog=v> [v] / obstinate [adj DOGGEDER, DOGGEDEST, DOGGEDLY]
+DOGGEDER <dogged=adj> [adj]
+DOGGEDEST <dogged=adj> [adj]
+DOGGEDLY <dogged=adj> [adv]
+DOGGEDNESS the state of being dogged [n DOGGEDNESSES]
+DOGGEDNESSES <doggedness=n> [n]
 DOGGER
 DOGGEREL
 DOGGERELS
@@ -65282,19 +65287,19 @@ DOGGERS
 DOGGERY
 DOGGESS
 DOGGESSES
-DOGGIE
-DOGGIER
-DOGGIES
-DOGGIEST
+DOGGIE a little dog, also DOGGY [n DOGGIES]
+DOGGIER <doggy=adj> [adj]
+DOGGIES <doggy=n> [n]
+DOGGIEST <doggy=adj> [adj]
 DOGGINESS
 DOGGINESSES
-DOGGING
+DOGGING <dog=v> [v]
 DOGGINGS
 DOGGISH
 DOGGISHLY
 DOGGISHNESS
 DOGGISHNESSES
-DOGGO
+DOGGO (slang) a dog [n DOGGOS]
 DOGGONE
 DOGGONED
 DOGGONEDER
@@ -65303,9 +65308,10 @@ DOGGONER
 DOGGONES
 DOGGONEST
 DOGGONING
+DOGGOS <doggo=n> [n]
 DOGGREL
 DOGGRELS
-DOGGY
+DOGGY a little dog, also DOGGIE [n DOGGIES] / like a dog [adj DOGGIER, DOGGIEST]
 DOGHANGED
 DOGHOLE
 DOGHOLES
@@ -65358,7 +65364,7 @@ DOGNAPPER
 DOGNAPPERS
 DOGNAPPING
 DOGNAPS
-DOGS
+DOGS <dog=v> [v]
 DOGSBODIES
 DOGSBODY
 DOGSHIP
@@ -81366,7 +81372,7 @@ FEDEXING
 FEDORA
 FEDORAS
 FEDS <fed=n> [n]
-FEE
+FEE to reward with compensation [v FEES, FEED, FEEING]
 FEEBLE
 FEEBLED
 FEEBLEMINDED
@@ -81382,7 +81388,7 @@ FEEBLING
 FEEBLISH
 FEEBLY
 FEED to give food to [v FEEDS, FED, FEEDING]
-FEEDABLE
+FEEDABLE able to be fed [adj]
 FEEDBACK
 FEEDBACKS
 FEEDBAG
@@ -81406,7 +81412,8 @@ FEEDTHROUGH
 FEEDTHROUGHS
 FEEDYARD
 FEEDYARDS
-FEEING
+FEEFEES (pejorative) one’s feelings [n]
+FEEING <fee=v> [v]
 FEEL
 FEELER
 FEELERS
@@ -81429,7 +81436,7 @@ FEERING
 FEERINGS
 FEERINS
 FEERS
-FEES
+FEES <fee=v> [v]
 FEESE
 FEESED
 FEESES
@@ -102208,7 +102215,7 @@ HESSONITES
 HEST
 HESTERNAL
 HESTS
-HET
+HET the 8th letter of the Hebrew alphabet, also CHET, CHETH, HETH, KHET, KHETH [n HETS]
 HETAERA
 HETAERAE
 HETAERAS
@@ -102447,10 +102454,10 @@ HETEROZYGOTE
 HETEROZYGOTES
 HETEROZYGOUS
 HETES
-HETH
+HETH the 8th letter of the Hebrew alphabet, also CHET, CHETH, HET, KHET, KHETH [n HETHS]
 HETHER
 HETHERWARD
-HETHS
+HETHS <heth=n> [n]
 HETING
 HETMAN
 HETMANATE
@@ -102458,7 +102465,7 @@ HETMANATES
 HETMANS
 HETMANSHIP
 HETMANSHIPS
-HETS
+HETS <het=n> [n]
 HEUCH
 HEUCHERA
 HEUCHERAS
@@ -107883,16 +107890,16 @@ HYSTEROTOMY
 HYTE
 HYTHE
 HYTHES
-IAMB
-IAMBI
-IAMBIC
-IAMBICALLY
-IAMBICS
+IAMB a metrical foot consisting of a short syllable followed by a long syllable, also IAMBIC, IAMBUS [n IAMBS]
+IAMBI <iambus=n> [n]
+IAMBIC a metrical foot consisting of a short syllable followed by a long syllable, also IAMB, IAMBUS [n IAMBICS] / consisting of iambics [adj IAMBICALLY]
+IAMBICALLY <iambic=adj> [adv]
+IAMBICS <iambic=n> [n]
 IAMBIST
 IAMBISTS
-IAMBS
-IAMBUS
-IAMBUSES
+IAMBS <iamb=n> [n]
+IAMBUS a metrical foot consisting of a short syllable followed by a long syllable, also IAMB, IAMBIC [n IAMBUSES, IAMBI]
+IAMBUSES <iambus=n> [n]
 IANTHINE
 IATRIC
 IATRICAL
@@ -107907,6 +107914,7 @@ IATROGENICITIES
 IATROGENICITY
 IATROGENIES
 IATROGENY
+IB the heart in ancient Egyptian religion [n IBS]
 IBERIS
 IBERISES
 IBEX
@@ -107917,6 +107925,7 @@ IBIS
 IBISES
 IBOGAINE
 IBOGAINES
+IBS <ib=n> [n]
 IBUPROFEN
 IBUPROFENS
 ICE
@@ -119929,7 +119938,7 @@ JUXTAPOSITIONS
 JYMOLD
 JYNX
 JYNXES
-KA
+KA the vital essence in ancient Egyptian religion [n KAS]
 KAAMA
 KAAMAS
 KAAS
@@ -120370,7 +120379,7 @@ KARYOTYPING
 KARYOTYPINGS
 KARZIES
 KARZY
-KAS
+KAS <ka=n> [n]
 KASBAH
 KASBAHS
 KASHA
@@ -121071,10 +121080,10 @@ KHEDIVES
 KHEDIVIAL
 KHEDIVIATE
 KHEDIVIATES
-KHET
-KHETH
-KHETHS
-KHETS
+KHET the 8th letter of the Hebrew alphabet, also CHET, CHETH, HET, HETH, KHETH [n KHETS]
+KHETH the 8th letter of the Hebrew alphabet, also CHET, CHETH, HET, HETH, KHET [n KHETHS]
+KHETHS <kheth=n> [n]
+KHETS <khet=n> [n]
 KHI
 KHIDMUTGAR
 KHIDMUTGARS
@@ -123666,6 +123675,8 @@ LANDAULETS
 LANDAULETTE
 LANDAULETTES
 LANDAUS
+LANDCHAD (humorous) a landlord [n LANDCHADS]
+LANDCHADS <landchad=n> [n]
 LANDDAMNE
 LANDDAMNED
 LANDDAMNES
@@ -127490,6 +127501,8 @@ LITENESSES
 LITER a unit of volume equal to 1/1000 of a cubic meter, also LITRE [n LITERS]
 LITERACIES <literacy=n> [n]
 LITERACY the state of being literate, also LITERATENESS [n LITERACIES]
+LITERAGE a measure of volume in liters, also LITREAGE [n LITERAGES]
+LITERAGES <literage=n> [n]
 LITERAL according to the letter; not figurative [adj LITERALLY] / (computing) a construct in a programming language that describes a value directly [n LITERALS]
 LITERALISATION the act of literalizing, also LITERALIZATION [n LITERALISATIONS]
 LITERALISATIONS <literalisation=n> [n]
@@ -127717,6 +127730,8 @@ LITORAL
 LITOTES
 LITOTIC
 LITRE a unit of volume equal to 1/1000 of a cubic meter, also LITER [n LITRES]
+LITREAGE a measure of volume in liters, also LITERAGE [n LITREAGES]
+LITREAGES <litreage=n> [n]
 LITRES <litre=n> [n]
 LITS
 LITTEN
@@ -131231,8 +131246,8 @@ MALAROMAS
 MALARS
 MALASSIMILATION
 MALASSIMILATIONS
-MALATE
-MALATES
+MALATE a salt or ester of malic acide [n MALATES]
+MALATES <malate=n> [n]
 MALATHION
 MALATHIONS
 MALAX
@@ -131257,6 +131272,10 @@ MALCONTENTEDLY
 MALCONTENTEDNESS
 MALCONTENTEDNESSES
 MALCONTENTS
+MALD (slang) to become extremely angry, especially after losing in a video game [v MALDS, MALDED, MALDING]
+MALDED <mald=v> [v]
+MALDING <mald=v> [v]
+MALDS <mald=v> [v]
 MALDISTRIBUTION
 MALDISTRIBUTIONS
 MALE
@@ -149967,28 +149986,31 @@ NORLAND
 NORLANDS
 NORM
 NORMA
-NORMAL
-NORMALCIES
-NORMALCY
-NORMALISATION
-NORMALISATIONS
-NORMALISE
-NORMALISED
-NORMALISES
-NORMALISING
-NORMALITIES
-NORMALITY
-NORMALIZABLE
-NORMALIZATION
-NORMALIZATIONS
-NORMALIZE
-NORMALIZED
-NORMALIZER
-NORMALIZERS
-NORMALIZES
-NORMALIZING
-NORMALLY
-NORMALS
+NORMAL regular or natural [adj NORMALLY] / a perpendicular line [n NORMALS]
+NORMALCIES <normalcy=n> [n]
+NORMALCY the state of being normal, also NORMALITY [n NORMALCIES]
+NORMALISABLE able to be normalized, also NORMALIZABLE [adj]
+NORMALISATION the act of normalizing, also NORMALIZATION [n NORMALISATIONS]
+NORMALISATIONS <normalisation=n> [n]
+NORMALISE to make normal, also NORMALIZE [v NORMALISES, NORMALISED, NORMALISING]
+NORMALISED <normalise=v> [v]
+NORMALISER one who normalizes, also NORMALIZER [n NORMALISERS]
+NORMALISERS <normaliser=n> [n]
+NORMALISES <normalise=v> [v]
+NORMALISING <normalise=v> [v]
+NORMALITIES <normality=n> [n]
+NORMALITY the quality of being normal, also NORMALCY [n NORMALITIES]
+NORMALIZABLE able to be normalized, also NORMALISABLE [adj]
+NORMALIZATION the act of normalizing, also NORMALISATION [n NORMALIZATIONS]
+NORMALIZATIONS <normalization=n> [n]
+NORMALIZE to make normal, also NORMALISE [v NORMALIZES, NORMALIZED, NORMALIZING]
+NORMALIZED <normalize=v> [v]
+NORMALIZER one who normalizes, also NORMALISER [n NORMALIZERS]
+NORMALIZERS <normalizer=n> [n]
+NORMALIZES <normalize=v> [v]
+NORMALIZING <normalize=v> [v]
+NORMALLY <normal=adj> [adv]
+NORMALS <normal=n> [n]
 NORMAN
 NORMANDE
 NORMANS
@@ -149998,6 +150020,8 @@ NORMATIVELY
 NORMATIVENESS
 NORMATIVENESSES
 NORMED
+NORMIE (slang, sometimes pejorative) a person with normal interests [n NORMIES]
+NORMIES <normie=n> [n]
 NORMING
 NORMINGS
 NORMLESS
@@ -191503,23 +191527,25 @@ RENOWNS
 RENS
 RENSSELAERITE
 RENSSELAERITES
-RENT
-RENTABILITIES
-RENTABILITY
-RENTABLE
-RENTAL
+RENT to grant access to temporarily for a fee, or to receive such access [v RENTS, RENTED, RENTING]
+RENTABILITIES <rentability=n> [n]
+RENTABILITY the state of being rentable [n RENTABILITIES]
+RENTABLE able to be rented [adj]
+RENTAL the act of renting [n RENTALS]
 RENTALLER
 RENTALLERS
-RENTALS
+RENTALS <rental=n> [n]
 RENTE
-RENTED
-RENTER
-RENTERS
+RENTED <rent=v> [v]
+RENTER one who rents [n RENTERS]
+RENTERS <renter=n> [n]
 RENTES
 RENTIER
 RENTIERS
-RENTING
-RENTS
+RENTING <rent=v> [v]
+RENTOID (pejorative) a tenant [n RENTOIDS]
+RENTOIDS <rentoid=n> [n]
+RENTS <rent=v> [v]
 RENUMBER
 RENUMBERED
 RENUMBERING
@@ -199109,6 +199135,7 @@ SAGUIN
 SAGUINS
 SAGUM
 SAGY
+SAH the spiritual body in ancient Egyptian religion, believed to bee formed when entering the afterlife [n SAHS]
 SAHIB
 SAHIBA
 SAHIBAH
@@ -199117,6 +199144,7 @@ SAHIBAS
 SAHIBS
 SAHIWAL
 SAHIWALS
+SAHS <sah=n> [n]
 SAHUARO
 SAHUAROS
 SAHUKAR
@@ -233014,10 +233042,10 @@ THEELINS
 THEELOL
 THEELOLS
 THEES
-THEFT
+THEFT the act of stealing [n THEFTS]
 THEFTBOOT
 THEFTBOOTS
-THEFTS
+THEFTS <theft=n> [n]
 THEFTUOUS
 THEFTUOUSLY
 THEGITHER
@@ -233585,47 +233613,52 @@ THIBET
 THIBETS
 THIBLE
 THIBLES
-THICK
-THICKED
-THICKEN
-THICKENED
-THICKENER
-THICKENERS
-THICKENING
+THICC (slang) voluptuous [adj THICCER, THICCEST]
+THICCER <thicc=adj> [adj]
+THICCEST <thicc=adj> [adj]
+THICK dense [adj THICKER, THICKEST, THICKLY] / to become thick [v THICKS, THICKED, THICKING]
+THICKED <thick=v> [v]
+THICKEN to become thick [v THICKENS, THICKENED, THICKENING]
+THICKENED <thicken=v> [v]
+THICKENER a substance that thickens [n THICKENERS]
+THICKENERS <thickener=n> [n]
+THICKENING <thicken=v> [v]
 THICKENINGS
-THICKENS
-THICKER
-THICKEST
-THICKET
+THICKENS <thicken=v> [v]
+THICKER <thick=adj> [adj]
+THICKEST <thick=adj> [adj]
+THICKET a dense collection of trees [n THICKETS]
 THICKETED
-THICKETS
-THICKETY
-THICKHEAD
-THICKHEADED
-THICKHEADEDNESS
-THICKHEADEDNESSES
-THICKHEADS
-THICKING
+THICKETS <thicket=n> [n]
+THICKETY like a thicket [adj]
+THICKHEAD one who is stupid [n THICKHEADS]
+THICKHEADED stupid [adj]
+THICKHEADEDNESS the quality of being thickheaded [n THICKHEADEDNESSES]
+THICKHEADEDNESSES <thickheadedness=n> [n]
+THICKHEADS <thickhead=n> [n]
+THICKING <thick=v> [v]
 THICKISH
-THICKLY
-THICKNESS
-THICKNESSES
+THICKLY <thick=adj> [adv]
+THICKNESS a measure along a third dimension other than length or height [n THICKNESSES]
+THICKNESSES <thickness=n> [n]
 THICKO
 THICKOES
 THICKOS
-THICKS
+THICKS <thick=v> [v]
 THICKSET
 THICKSETS
-THICKSKIN
-THICKSKINS
+THICKSKIN a coarse, gross person [n THICKSKINS]
+THICKSKINS <thickskin=n> [n]
+THICKSKULL a dull-headed person [n THICKSKULLS]
+THICKSKULLS <thickskull=n> [n]
 THICKY
-THIEF
-THIEVE
-THIEVED
-THIEVERIES
-THIEVERY
-THIEVES
-THIEVING
+THIEF one who steals [n THIEVES]
+THIEVE to steal [v THIEVES, THIEVED, THIEVING]
+THIEVED <thieve=n> [n]
+THIEVERIES <thievery=n> [n]
+THIEVERY theft [n THIEVERIES]
+THIEVES <thieve=n> [n]
+THIEVING <thieve=n> [n]
 THIEVINGS
 THIEVISH
 THIEVISHLY
