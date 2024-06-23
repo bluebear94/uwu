@@ -93,8 +93,8 @@ ABATOR
 ABATORS
 ABATTIS
 ABATTISES
-ABATTOIR
-ABATTOIRS
+ABATTOIR a slaughterhouse [n ABATTOIRS]
+ABATTOIRS <abattoir=n> [n]
 ABATTU
 ABATURE
 ABATURES
@@ -102,7 +102,7 @@ ABAXIAL
 ABAXILE
 ABAYA
 ABAYAS
-ABB
+ABB yarn for the warp [n ABBS]
 ABBA
 ABBACIES
 ABBACY
@@ -131,7 +131,7 @@ ABBREVIATORS
 ABBREVIATORY
 ABBREVIATURE
 ABBREVIATURES
-ABBS
+ABBS <abb=n> [n]
 ABCEE
 ABCEES
 ABCOULOMB
@@ -51939,13 +51939,14 @@ CURSORILY
 CURSORINESS
 CURSORINESSES
 CURSORING
+CURSORLESS not using a cursor [adj]
 CURSORS
 CURSORY
 CURST
 CURSTNESS
 CURSTNESSES
 CURSUS
-CURT
+CURT rudely concise [adj CURTER, CURTEST, CURTLY]
 CURTAIL
 CURTAILED
 CURTAILER
@@ -51969,13 +51970,13 @@ CURTANAS
 CURTATE
 CURTATION
 CURTATIONS
-CURTER
+CURTER <curt=adj> [adj]
 CURTESIES
-CURTEST
+CURTEST <curt=adj> [adj]
 CURTESY
 CURTILAGE
 CURTILAGES
-CURTLY
+CURTLY <curt=adj> [adv]
 CURTNESS
 CURTNESSES
 CURTSEY
@@ -99497,7 +99498,10 @@ HARDBOOT
 HARDBOOTS
 HARDBOUND
 HARDCASE
-HARDCODED
+HARDCODE to embed a piece of data directly into a program’s source code so that it cannot be altered without modifying the source code [v HARDCODES, HARDCODED, HARDCODING]
+HARDCODED <hardcode=v> [v]
+HARDCODES <hardcode=v> [v]
+HARDCODING <hardcode=v> [v]
 HARDCORE
 HARDCORES
 HARDCOVER
@@ -116714,10 +116718,16 @@ IONTOPHORESIS
 IONTOPHORETIC
 IONTOPHORETICALLY
 IOS
-IOTA
-IOTACISM
-IOTACISMS
-IOTAS
+IOTA the ninth letter of the Greek alphabet [n IOTAS]
+IOTACISM the pronunciation of a vowel as /i/ in Modern Greek [n IOTACISMS]
+IOTACISMS <iotacism=n> [n]
+IOTAS <iota=n> [n]
+IOTATE to perform iotation [v IOTATES, IOTATED, IOTATING]
+IOTATED <iotate=v> [v]
+IOTATES <iotate=v> [v]
+IOTATING <iotate=v> [v]
+IOTATION a sound change (e.g. in Proto-Slavic) in which a consonant merges with a palatal approximant to produce a palatal consonant [n IOTATIONS]
+IOTATIONS <iotation=n> [n]
 IPECAC
 IPECACS
 IPECACUANHA
@@ -169358,6 +169368,8 @@ PIETISTICALLY
 PIETISTS
 PIETS
 PIETY
+PIEZE the unit of pressure in the meter–tonne–second system of untis, equal to 1000 pascals [n PIEZES]
+PIEZES <pieze=n> [n]
 PIEZO
 PIEZOCHEMISTRIES
 PIEZOCHEMISTRY
@@ -219997,9 +220009,11 @@ STEWY
 STEY
 STEYER
 STEYEST
+STHENE the unit of force in the meter–tonne–second system of units, equal to 1000 newtons [n STHENES]
+STHENES <sthene=n> [n]
 STHENIA
 STHENIAS
-STHENIC
+STHENIC strong [adj]
 STIACCIATO
 STIACCIATOS
 STIBBLE
@@ -231691,6 +231705,8 @@ TENDERNESSES
 TENDEROMETER
 TENDEROMETERS
 TENDERS
+TENDIE (colloquial) a chicken tender, a strip of chicken that is breaded and deep-fried [n TENDIES]
+TENDIES <tendie=n> [n]
 TENDING
 TENDINITIS
 TENDINITISES
@@ -261619,21 +261635,20 @@ WYANDOTTE
 WYANDOTTES
 WYCH
 WYCHES
-WYE
-WYES
+WYE the letter Y [n WYES]
+WYES <wye=n> [n]
 WYLE
 WYLED
 WYLES
 WYLIECOAT
 WYLIECOATS
 WYLING
-WYN
+WYN an Old English letter corresponding to the modern W, also WYNN [n WYNS]
 WYND
 WYNDS
-WYNN
-WYNNS
-WYNS
-WYSIWYG
+WYNN an Old English letter corresponding to the modern W, also WYN [n WYNNS]
+WYNNS <wynn=n> [n]
+WYNS <wyn=n> [n]
 WYTE
 WYTED
 WYTES
