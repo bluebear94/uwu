@@ -239522,7 +239522,7 @@ TRIKE
 TRIKED
 TRIKES
 TRIKETONE a ketone containing three carbonyl groups, also TRIONE [n TRIKETONES]
-TRIKETONE <triketone=n> [n]
+TRIKETONES <triketone=n> [n]
 TRIKING
 TRILATERAL
 TRILATERALISM
